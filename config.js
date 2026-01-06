@@ -1,7 +1,7 @@
 const tips = [
   {
     text: "Alt+F4 - Save dein Gear",
-    sarkasmus: true,
+    sarkasmus: false,
   },
   {
     text: "Gelber Schnee schmeckt nach Zitrone und ist eine Delikatesse der Natur.",
@@ -33,7 +33,7 @@ const tips = [
   },
   {
     text: "Natürlich kannst du einfach in die Bank laufen und nach Geld fragen. Was soll schon schiefgehen?",
-    sarkasmus: true,
+    sarkasmus: false,
   },
   {
     text: "Wer mitten auf der Straße verschwindet, hinterlässt Spuren.",
@@ -110,7 +110,59 @@ const tips = [
   { 
     text: "Wenn es kalt ist, zieh deinem Charakter etwas Warmes an. Männergrippe ist kein Spaß.",
     sarkasmus: false,
-  }
+  },
+  {
+    text: "RP beginnt nicht mit der Waffe, sondern mit dem ersten Satz.",
+    sarkasmus: false,
+  },
+  {
+    text: "Dein Charakter weiß nicht alles – auch wenn du es weißt.",
+    sarkasmus: false,
+  },
+  {
+    text: "Wer rennt, verliert. Wer schreit, erst recht.",
+    sarkasmus: false,
+  },
+  {
+    text: "Nicht jede Beleidigung ist ein RP-Grund, aber jede Aktion eine RP-Folge.",
+    sarkasmus: false,
+  },
+  {
+    text: "RP heißt reagieren, nicht dominieren.",
+    sarkasmus: false,
+  },
+  {
+    text: "Manchmal ist Weglaufen klüger als Heldenmut.",
+    sarkasmus: false,
+  },
+  {
+    text: "Das Visum hat eine kürzere Laufdauer als der Ausweis – prüf es regelmäßig.",
+    sarkasmus: false,
+  },
+  {
+    text: "Für die Verlängerung deines Ausweises steht dir das DoI gerne zur Verfügung.",
+    sarkasmus: false,
+  },
+  {
+    text: "Halte die sozialen Netzwerke im Blick - vielleicht hat ja dein Lieblingsrestaurant geöffnet.",
+    sarkasmus: false,
+  },
+  {
+    text: "Ja, man kann hier angeln. Nein, das ist kein Bug.",
+    sarkasmus: false,
+  },
+  {
+    text: "Jobangebote warten überall – sie laufen dir nur nicht hinterher.",
+    sarkasmus: false,
+  },
+  {
+    text: "Nicht jede Maske passt überall – Stil ist Standortabhängig.",
+    sarkasmus: false,
+  },
+  {
+    text: "Hüte, Masken und Outfits unterscheiden sich je nach Ort – Überraschung inklusive.",
+    sarkasmus: false,
+  },
 ]
 
 // Background images array
@@ -170,3 +222,4 @@ const patchNotes = [
   },
 
 ]
+
