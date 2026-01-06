@@ -181,11 +181,9 @@ const patchNotes = [
       "Neuer Button in den Settings, um lokale Grafikfehler (wie verschwindende Straßen) sofort zu beheben (mit Cooldown)",
       "Mitteilungen bleiben nun 6 Sekunden statt bisher 3 (bessere Lesbarkeit)",
       "Die Suche in Listen (Inventar, Lager etc.) arbeitet nun effizienter",
-      "",
       "Tuning steht in den Startlöchern",
       "Tuningvorschau für Werkstätten mit Preisberechnung und Bestellung der gewählten Teile",
       "Lackierfunktion mit freien Möglichkeiten der Farbwahl durch RGB Codes",
-      "",
       "Fehler im Anrufverlauf korrigiert (ausgehende Anrufe wurden teils falsch angezeigt)",
       "Probleme mit Lock-Timeouts beim Charakter-Spawn behoben",
       "Automatische Löschung von alten Map-Entities und Offline-Charakteren",
@@ -222,5 +220,6 @@ const patchNotes = [
   },
 
 ]
+
 
 
