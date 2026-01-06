@@ -172,7 +172,7 @@ const backgroundImages = ["https://images.blackwater-roleplay.de/ingame/loading_
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "15.01.2025",
+    date: "06.01.2025",
     preview: "Tuning, Crouchen optimiert, QoL/Perfomance-Changes, Bugfixes",
     changes: [
       "Crouch-System wurde komplett überarbeitet - reagiert direkt beim Loslassen der STRG-Taste",
@@ -222,4 +222,5 @@ const patchNotes = [
   },
 
 ]
+
 
