@@ -121,14 +121,23 @@ const patchNotes = [
   {
     version: "Patchnotes",
     date: "15.01.2025",
-    preview: "Neue Fahrzeuge, verbessertes Wirtschaftssystem und Performance-Optimierungen...",
+    preview: "Tuning, Crouchen optimiert, QoL/Perfomance-Changes, Bugfixes",
     changes: [
-      "5 neue Fahrzeugmodelle hinzugefügt (2x Sportwagen, 2x SUV, 1x Motorrad)",
-      "Wirtschaftssystem überarbeitet: Neue Jobrouten und bessere Bezahlung",
-      "Performance-Optimierungen für flüssigeres Gameplay",
-      "Bugfix: Fahrzeuge spawnen jetzt korrekt nach Server-Restart",
-      "Neue Interaktionen für Immobilien-System hinzugefügt",
-      "Verbesserte Anti-Cheat Maßnahmen implementiert",
+      "Crouch-System wurde komplett überarbeitet - reagiert direkt beim Loslassen der STRG-Taste",
+      "Über Numpad kann das Mikrofon nun direkt gemutet werden",
+      "Die Generierung von Kfz-Kennzeicehn wurde verbessert (Ziffer '0' wird zur besseren Lesbarkeit ausgeschlossen)",
+      "Neuer Button in den Settings, um lokale Grafikfehler (wie verschwindende Straßen) sofort zu beheben (mit Cooldown)",
+      "Mitteilungen bleiben nun 6 Sekunden statt bisher 3 (bessere Lesbarkeit)",
+      "Die Suche in Listen (Inventar, Lager etc.) arbeitet nun effizienter",
+      "",
+      "Tuning steht in den Startlöchern",
+      "Tuningvorschau für Werkstätten mit Preisberechnung und Bestellung der gewählten Teile",
+      "Lackierfunktion mit freien Möglichkeiten der Farbwahl durch RGB Codes",
+      "",
+      "Fehler im Anrufverlauf korrigiert (ausgehende Anrufe wurden teils falsch angezeigt)",
+      "Probleme mit Lock-Timeouts beim Charakter-Spawn behoben",
+      "Automatische Löschung von alten Map-Entities und Offline-Charakteren",
+      "Fehler behoben, bei dem Tasten beim Gedrückthalten mehrfach ausgelöst haben"
     ],
   },
   {
@@ -159,4 +168,5 @@ const patchNotes = [
       "Die LKW-Fabrik hat ihren Betrieb aufgenommen",
     ],
   },
+
 ]
