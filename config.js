@@ -166,13 +166,51 @@ const tips = [
 ]
 
 // Background images array
-const backgroundImages = ["https://images.blackwater-roleplay.de/ingame/loading_screen/Bild3.png", "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild4.png", "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild1.png", "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild2.png"]
+const backgroundImages = [
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild1.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild2.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild3.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild4.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild5.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild6.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild7.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild8.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild9.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild10.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild11.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild12.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild13.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild14.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild15.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild16.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild17.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild18.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild19.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild20.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild21.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild22.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild23.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild24.png",
+  "https://images.blackwater-roleplay.de/ingame/loading_screen/Bild25.png"
+]
+
 
 // Patch notes array with last 3 entries
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "06.01.2025",
+    date: "07.01.2026",
+    preview: "Tuning Release, Importeur Bodo und neuer Loadingscreen",
+    changes: [
+      "Neuer Loadingscreen",
+      "Der Importeur Bodo hat ein paar starke Deals gemacht und teilt sich nun das Geschäft mit seinem Neffen",
+      "Tuning ist jetzt live!",
+      "Vom Motortuning bis zur Frittentheke - lebt euch aus!",
+    ],
+  },
+  {
+    version: "Patchnotes",
+    date: "06.01.2026",
     preview: "Tuning, Crouchen optimiert, QoL/Perfomance-Changes, Bugfixes",
     changes: [
       "Crouch-System wurde komplett überarbeitet - reagiert direkt beim Loslassen der STRG-Taste",
@@ -204,22 +242,8 @@ const patchNotes = [
       "Fehler bei LKW-Crafting-Rezepten behoben, bei denen die Anzahl der Sitze/Scheiben nicht korrekt war",
     ],
   },
-  {
-    version: "Patchnotes",
-    date: "31.12.2025",
-    preview: "Neues Krankenhaus & Stadtpark, LKW's, Boxhandschuhe, Piercings und Schmuck",
-    changes: [
-      "Der Ponsonbys Designerladen hat neuen Schmuck, Kleidung & Accessoires bekommen",
-      "Die Tattoostudios können nun Piercinge stechen",
-      "Das Fitnessstudio in Sandy verkauft nun Boxhandschuhe (viel Spaß damit ♥)",
-      "Neben PDM befindet sich nun ein neuer Stadtpark",
-      "Das Krankenhaus ist umgezogen (altes Krankenhaus wurde entfernt)",
-      "Es wurden weitere Unternehmen zugelassen",
-      "Die LKW-Fabrik hat ihren Betrieb aufgenommen",
-    ],
-  },
-
 ]
+
 
 
 
