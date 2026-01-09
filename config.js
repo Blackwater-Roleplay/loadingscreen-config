@@ -202,9 +202,9 @@ const patchNotes = [
     date: "08.01.2026",
     preview: "QoL Changes, Outdoor Bedarf und Regenschirme",
     changes: [
-      "Tabakhändler Vladi hat sein Sortiment erweitert"
-      "Frida bietet nun Regenschirme an – perfekt für jedes Wetter und jede Ausrede"
-      "Frederick hat es sich gemütlich am Markt in Sandy Shores eingerichtet und versorgt euch ab sofort mit Outdoor-Bedarf"
+      "Tabakhändler Vladi hat sein Sortiment erweitert",
+      "Frida bietet nun Regenschirme an – perfekt für jedes Wetter und jede Ausrede",
+      "Frederick hat es sich gemütlich am Markt in Sandy Shores eingerichtet und versorgt euch ab sofort mit Outdoor-Bedarf",
     ],
   },
   {
@@ -239,6 +239,7 @@ const patchNotes = [
     ],
   },
 ]
+
 
 
 
