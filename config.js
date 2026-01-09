@@ -199,6 +199,16 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "08.01.2026",
+    preview: "QoL Changes, Outdoor Bedarf und Regenschirme",
+    changes: [
+      "Tabakhändler Vladi hat sein Sortiment erweitert"
+      "Frida bietet nun Regenschirme an – perfekt für jedes Wetter und jede Ausrede"
+      "Frederick hat es sich gemütlich am Markt in Sandy Shores eingerichtet und versorgt euch ab sofort mit Outdoor-Bedarf"
+    ],
+  },
+  {
+    version: "Patchnotes",
     date: "07.01.2026",
     preview: "Tuning Release, Importeur Bodo und neuer Loadingscreen",
     changes: [
@@ -228,21 +238,8 @@ const patchNotes = [
       "Fehler behoben, bei dem Tasten beim Gedrückthalten mehrfach ausgelöst haben"
     ],
   },
-  {
-    version: "Patchnotes",
-    date: "03.01.2026",
-    preview: "Boxhandschuhe optimiert, Speisekarten für Unternehmen und diverse Bugfixes...",
-    changes: [
-      "Speisekarten-Item für Unternehmen",
-      "Speisekarte am Ausschank für Unternehmen",
-      "Schlagschaden stark verringert",
-      "Boxhandschuhe überarbeitet (Es muss nur der Schlagende Handschuhe tragen)",
-      "Boxhandschuhe machen ab einem gewissen HP-Wert keinen Schaden mehr",
-      "Problem bei Schaden mit Schusswaffen beim Tragen von Boxhandschuhen behoben",
-      "Fehler bei LKW-Crafting-Rezepten behoben, bei denen die Anzahl der Sitze/Scheiben nicht korrekt war",
-    ],
-  },
 ]
+
 
 
 
