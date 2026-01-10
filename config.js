@@ -199,8 +199,8 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "010.01.2026",
-    preview: "Tuning, Crouchen optimiert, QoL/Perfomance-Changes, Bugfixes",
+    date: "10.01.2026",
+    preview: "Maniküren, Einweghandschuhe, QoL und Bug-/Mappingfixes (Tuning, Aktensystem,...)",
     changes: [
       "Bei der Los Santos Stadtreinigung haben einige neue Mitarbeiter ihren Dienst aufgenommen",
       "Lexy hat sich im Nagelstudio eingerichtet und bietet ab sofort Maniküren an",
@@ -237,6 +237,7 @@ const patchNotes = [
     ],
   },
 ]
+
 
 
 
