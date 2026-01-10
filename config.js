@@ -199,6 +199,24 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "010.01.2026",
+    preview: "Tuning, Crouchen optimiert, QoL/Perfomance-Changes, Bugfixes",
+    changes: [
+      "Bei der Los Santos Stadtreinigung haben einige neue Mitarbeiter ihren Dienst aufgenommen",
+      "Lexy hat sich im Nagelstudio eingerichtet und bietet ab sofort Maniküren an",
+      "Die Apotheke im Medical Center verkauft ab heute für alle Bürger Latexhandschuhe",
+      "Es hat sich einiges im Crimebereich getan😉",
+      "Ab sofort könnt ihr an Fabriken direkt aus dem Kofferraum craften. Bedeutet: Beim Crafting wird automatisch der nächstgelegene Kofferraum genutzt, für den ihr einen Schlüssel besitzt. Die Items daraus stehen euch direkt fürs Crafting zur Verfügung, ihr müsst nichts mehr ins Inventar umladen. (Der Spieler muss so stehen, dass er auf die Fabrik und das Fahrzeug zugreifen kann - dann funktionierts)",
+      "Im Bereich Tuning wurde der Pearl-Effect überarbeitet und gefixt – gebt uns dazu gern weiter Feedback",
+      "Es wurden Anpassungen an den Fahrzeugschlössern vorgenommen",
+      "Kennzeichen ändern sich nicht mehr selbstständig",
+      "Diverse Bugfixes an den Aktensystemen sind erfolgt",
+      "Es wurden einige Mapfixes durchgeführt",
+      "Ferner wurden diverse Tore und Schranken entfernt"
+    ],
+  },
+  {
+    version: "Patchnotes",
     date: "08.01.2026",
     preview: "QoL Changes, Outdoor Bedarf und Regenschirme",
     changes: [
@@ -218,27 +236,8 @@ const patchNotes = [
       "Vom Motortuning bis zur Frittentheke - lebt euch aus!",
     ],
   },
-  {
-    version: "Patchnotes",
-    date: "06.01.2026",
-    preview: "Tuning, Crouchen optimiert, QoL/Perfomance-Changes, Bugfixes",
-    changes: [
-      "Crouch-System wurde komplett überarbeitet - reagiert direkt beim Loslassen der STRG-Taste",
-      "Über Numpad kann das Mikrofon nun direkt gemutet werden",
-      "Die Generierung von Kfz-Kennzeicehn wurde verbessert (Ziffer '0' wird zur besseren Lesbarkeit ausgeschlossen)",
-      "Neuer Button in den Settings, um lokale Grafikfehler (wie verschwindende Straßen) sofort zu beheben (mit Cooldown)",
-      "Mitteilungen bleiben nun 6 Sekunden statt bisher 3 (bessere Lesbarkeit)",
-      "Die Suche in Listen (Inventar, Lager etc.) arbeitet nun effizienter",
-      "Tuning steht in den Startlöchern",
-      "Tuningvorschau für Werkstätten mit Preisberechnung und Bestellung der gewählten Teile",
-      "Lackierfunktion mit freien Möglichkeiten der Farbwahl durch RGB Codes",
-      "Fehler im Anrufverlauf korrigiert (ausgehende Anrufe wurden teils falsch angezeigt)",
-      "Probleme mit Lock-Timeouts beim Charakter-Spawn behoben",
-      "Automatische Löschung von alten Map-Entities und Offline-Charakteren",
-      "Fehler behoben, bei dem Tasten beim Gedrückthalten mehrfach ausgelöst haben"
-    ],
-  },
 ]
+
 
 
 
