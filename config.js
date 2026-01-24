@@ -199,44 +199,45 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "10.01.2026",
-    preview: "Maniküren, Einweghandschuhe, QoL und Bug-/Mappingfixes (Tuning, Aktensystem,...)",
+    date: "24.01.2026",
+    preview: "Golf, Lautsprecher und NULLchat",
     changes: [
-      "Bei der Los Santos Stadtreinigung haben einige neue Mitarbeiter ihren Dienst aufgenommen",
-      "Lexy hat sich im Nagelstudio eingerichtet und bietet ab sofort Maniküren an",
-      "Die Apotheke im Medical Center verkauft ab heute für alle Bürger Latexhandschuhe",
-      "Es hat sich einiges im Crimebereich getan😉",
-      "Ab sofort könnt ihr an Fabriken direkt aus dem Kofferraum craften. Bedeutet: Beim Crafting wird automatisch der nächstgelegene Kofferraum genutzt, für den ihr einen Schlüssel besitzt. Die Items daraus stehen euch direkt fürs Crafting zur Verfügung, ihr müsst nichts mehr ins Inventar umladen. (Der Spieler muss so stehen, dass er auf die Fabrik und das Fahrzeug zugreifen kann - dann funktionierts)",
-      "Im Bereich Tuning wurde der Pearl-Effect überarbeitet und gefixt – gebt uns dazu gern weiter Feedback",
-      "Es wurden Anpassungen an den Fahrzeugschlössern vorgenommen",
-      "Kennzeichen ändern sich nicht mehr selbstständig",
-      "Diverse Bugfixes an den Aktensystemen sind erfolgt",
-      "Es wurden einige Mapfixes durchgeführt",
-      "Ferner wurden diverse Tore und Schranken entfernt"
+     "Der Golfclub hat seinen Betrieb aufgenommen",
+      "Das Lautsprecher-System wurde weiter verbessert",
+      "Probleme mit der Playlist-Synchronisation wurden reduziert (Testphase läuft weiter)",
+      "Die Lautstärke kann weiterhin für jeden individuell eingestellt werden über: F8  Befehl → speakervolume (0–10) - (z. B. 0.2 für leiser, 0 für komplett stumm – auch ideal für Streamer)",
+      "In der Stadt wurden bereits erste Radios, DJ-Mischpulte und Jukeboxen an verschiedenen Locations verteilt",
+      "9 neue Handschuhe sind ab sofort im Designerladen in der Mall erhältlich",
+      "5 neue Caps für Männer wurden in der Mall hinzugefügt",
+      'Neue App auf dem Handy verfügbar "NULLchat" - Anonyme Kommunikation für Themen, die man nicht direkt mit Klarnamen und eigener Nummer besprechen möchte',
     ],
   },
   {
     version: "Patchnotes",
-    date: "08.01.2026",
-    preview: "QoL Changes, Outdoor Bedarf und Regenschirme",
+    date: "22.01.2026",
+    preview: "Tattoos, Mode und Mülltonnen",
     changes: [
-      "Tabakhändler Vladi hat sein Sortiment erweitert",
-      "Frida bietet nun Regenschirme an – perfekt für jedes Wetter und jede Ausrede",
-      "Frederick hat es sich gemütlich am Markt in Sandy Shores eingerichtet und versorgt euch ab sofort mit Outdoor-Bedarf",
+      "Jeweils über 90 neue Custom-Tattoos für Männer und Frauen",
+      "Über 300 neue Kleidungsstücke für Männer und über 700 für Frauen - in der Mall erhältlich",
+      "Recycling Ronny verkauft nun bei der Los Santos Stadtreinigung Mülltonnen",
     ],
   },
   {
     version: "Patchnotes",
-    date: "07.01.2026",
-    preview: "Tuning Release, Importeur Bodo und neuer Loadingscreen",
+    date: "20.01.2026",
+    preview: "UI, Gewerbe und Wirtschaft/Crafting",
     changes: [
-      "Neuer Loadingscreen",
-      "Der Importeur Bodo hat ein paar starke Deals gemacht und teilt sich nun das Geschäft mit seinem Neffen",
-      "Tuning ist jetzt live!",
-      "Vom Motortuning bis zur Frittentheke - lebt euch aus!",
+      "Die UI-Farben wurden an das Blackwater-Theme angepasst",
+      "Die Farben sind nun für jeden Spieler individuell anpassbar unter: Tab → Farbeinstellungen",
+      "Das Lautsprechersystem ist nun auf dem Live-Server verfügbar und befindet sich im Testlauf",
+      "Musikzubehörverkäufer Ingo hat sich in der Stadt niedergelassen",
+      "Das Grundeinkommen wird ab sofort in BAR ausgezahlt",
+      "Personen mit einer Leitstellen-Position sind nun auch über ihre private Telefonnummer erreichbar",
+      "Weitere Fahrzeugrezepte wurden dem Crafting hinzugefügt"
     ],
   },
 ]
+
 
 
 
