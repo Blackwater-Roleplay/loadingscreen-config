@@ -199,7 +199,32 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "25.01.2026",
+    preview: "Shopräube, Crimeentwecklungen und Bugfixes",
+    changes: [
+     "Nach erfolgreichem Inhaberwechsel hat Benny’s nun eine neue Folie für den Bison",
+     "Einige Shops können nun überfallen werden - Wie? Findet es IC heraus! Überfälle sind Teamwork!",
+      "Weitere Crime-Entwicklungen wurden im Hintergrund vorbereitet",
+     "Armor Plates wurden technisch integriert",
+     "Golf - der Name kann nun auch vor dem Beitreten einer bestehenden Runde geändert werden",
+     "Das Lautsprecher-System wurde erneut überarbeitet, insbesondere zur Behebung von Performance-Problemen",
+    "Panicbutton-Sound wurde leiser abgestimmt und muss nun 3x gedrückt werden, um auszulösen"
+    ],
+  },
+  {
+    version: "Patchnotes",
     date: "24.01.2026",
+    preview: "Panicbutton!",
+    changes: [
+      "Neuer Panicbutton für MD / FD / PD wurde eingeführt.",
+      "Der Alarm kann nur innerhalb der jeweiligen Fraktion ausgelöst werden.",
+      "Standardtaste: O (Buchstabe) → frei änderbar im Tab-Menü",
+      "Der Alarmton kommt aus dem Funkgerät und Sound ist bei allen Fraktionsmitgliedern, die den Dispatch erhalten, auch in der Umgebung hörbar."
+    ],
+  },
+    {
+    version: "Patchnotes",
+    date: "23.01.2026",
     preview: "Golf, Lautsprecher und NULLchat",
     changes: [
      "Der Golfclub hat seinen Betrieb aufgenommen",
@@ -212,31 +237,8 @@ const patchNotes = [
       'Neue App auf dem Handy verfügbar "NULLchat" - Anonyme Kommunikation für Themen, die man nicht direkt mit Klarnamen und eigener Nummer besprechen möchte',
     ],
   },
-  {
-    version: "Patchnotes",
-    date: "22.01.2026",
-    preview: "Tattoos, Mode und Mülltonnen",
-    changes: [
-      "Jeweils über 90 neue Custom-Tattoos für Männer und Frauen",
-      "Über 300 neue Kleidungsstücke für Männer und über 700 für Frauen - in der Mall erhältlich",
-      "Recycling Ronny verkauft nun bei der Los Santos Stadtreinigung Mülltonnen",
-    ],
-  },
-  {
-    version: "Patchnotes",
-    date: "20.01.2026",
-    preview: "UI, Gewerbe und Wirtschaft/Crafting",
-    changes: [
-      "Die UI-Farben wurden an das Blackwater-Theme angepasst",
-      "Die Farben sind nun für jeden Spieler individuell anpassbar unter: Tab → Farbeinstellungen",
-      "Das Lautsprechersystem ist nun auf dem Live-Server verfügbar und befindet sich im Testlauf",
-      "Musikzubehörverkäufer Ingo hat sich in der Stadt niedergelassen",
-      "Das Grundeinkommen wird ab sofort in BAR ausgezahlt",
-      "Personen mit einer Leitstellen-Position sind nun auch über ihre private Telefonnummer erreichbar",
-      "Weitere Fahrzeugrezepte wurden dem Crafting hinzugefügt"
-    ],
-  },
 ]
+
 
 
 
