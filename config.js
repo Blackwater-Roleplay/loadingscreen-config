@@ -200,7 +200,7 @@ const patchNotes = [
   {
     version: "Patchnotes",
     date: "25.01.2026",
-    preview: "Shopräube, Crimeentwecklungen und Bugfixes",
+    preview: "Shopräube, Crimeentwicklungen und Bugfixes",
     changes: [
      "Nach erfolgreichem Inhaberwechsel hat Benny’s nun eine neue Folie für den Bison",
      "Einige Shops können nun überfallen werden - Wie? Findet es IC heraus! Überfälle sind Teamwork!",
@@ -238,6 +238,7 @@ const patchNotes = [
     ],
   },
 ]
+
 
 
 
