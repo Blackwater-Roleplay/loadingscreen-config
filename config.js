@@ -197,6 +197,16 @@ const backgroundImages = [
 
 // Patch notes array with last 3 entries
 const patchNotes = [
+    {
+    version: "Patchnotes",
+    date: "27.01.2026",
+    preview: "Floorjan ist da!",
+    changes: [
+     "Importeur Floorjan ist in der Stadt eingetroffen und er kam nicht mit leeren Händen",
+      "Mehrere neue Fahrzeuge haben den Weg nach Los Santos gefunden",
+      "Schaut euch um, haltet die Augen offen - vielleicht steht euer nächster Traumwagen schon irgendwo und wartet darauf, entdeckt zu werden"
+    ],
+  },
   {
     version: "Patchnotes",
     date: "25.01.2026",
@@ -219,25 +229,11 @@ const patchNotes = [
       "Neuer Panicbutton für MD / FD / PD wurde eingeführt.",
       "Der Alarm kann nur innerhalb der jeweiligen Fraktion ausgelöst werden.",
       "Standardtaste: O (Buchstabe) → frei änderbar im Tab-Menü",
-      "Der Alarmton kommt aus dem Funkgerät und Sound ist bei allen Fraktionsmitgliedern, die den Dispatch erhalten, auch in der Umgebung hörbar."
-    ],
-  },
-    {
-    version: "Patchnotes",
-    date: "23.01.2026",
-    preview: "Golf, Lautsprecher und NULLchat",
-    changes: [
-     "Der Golfclub hat seinen Betrieb aufgenommen",
-      "Das Lautsprecher-System wurde weiter verbessert",
-      "Probleme mit der Playlist-Synchronisation wurden reduziert (Testphase läuft weiter)",
-      "Die Lautstärke kann weiterhin für jeden individuell eingestellt werden über: F8  Befehl → speakervolume (0–10) - (z. B. 0.2 für leiser, 0 für komplett stumm – auch ideal für Streamer)",
-      "In der Stadt wurden bereits erste Radios, DJ-Mischpulte und Jukeboxen an verschiedenen Locations verteilt",
-      "9 neue Handschuhe sind ab sofort im Designerladen in der Mall erhältlich",
-      "5 neue Caps für Männer wurden in der Mall hinzugefügt",
-      'Neue App auf dem Handy verfügbar "NULLchat" - Anonyme Kommunikation für Themen, die man nicht direkt mit Klarnamen und eigener Nummer besprechen möchte',
+      "Der Alarmton kommt aus dem Funkgerät und Sound ist bei allen Fraktionsmitgliedern, die den Dispatch erhalten, auch in der Umgebung hörbar"
     ],
   },
 ]
+
 
 
 
