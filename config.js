@@ -197,6 +197,29 @@ const backgroundImages = [
 
 // Patch notes array with last 3 entries
 const patchNotes = [
+      {
+      version: "Patchnotes",
+      date: "28.01.2026",
+      preview: "Freizeitupdate",
+      changes: [
+        "Fischerei wurde auf das offene Meer ausgeweitet (Hochsee-Ausrüstung erforderlich). Neue, seltene Meeresbewohner wurden hinzugefügt. Bergung verlorener Fracht an den Küsten ist nun möglich",
+        "Öffentliche Grillanlagen können von den Bürgerinnen und Bürger saniert und nutzbar gemacht werden. Grills können genutzt werden",
+        "Angeschwemmte Fracht und versiegelte Güter können nun geborgen werden. Seltene Meeresfunde können geschätzt und verkauft werden",
+        "Im späteren Verlauf des Abends öffnet die Bowlinghalle 'Pipeline Inn', nähe des Westhighways, ihre Pforten",
+        "In der Stadt hat ein Musiklabel seine Pforten geöffnet. Dort können nun unter anderem Instrumente erworben werden"        
+      ],
+    },
+    {
+      version: "Patchnotes",
+      date: "28.01.2026",
+      preview: "Tattoostudio Update und Kleidung",
+      changes: [
+        "Tattoo-Maschinen sind jetzt als Item verfügbar (mit verschiedenen Animationen/Positionen für realistischeres Tätowieren)",
+        "Tattooliegen & -stühle haben nun feste Sitz-/Liegepositionen über das Interaktionsmenü, inkl. Bauch- und Rückenlage",
+        "Männer: 63 Hüte, 90 Oberteile, 7 Hosen, 4 Ketten, 19 Taschen und Rucksäcke, 5 Kopfhörer",
+        "Frauen: 15 Hüte, 96 Oberteile, 11 Hosen, 41 Ketten, 40 Taschen und Rucksäcke, 12 Ohrringe, 1 Paar Schuhe"
+      ],
+    },
     {
     version: "Patchnotes",
     date: "27.01.2026",
@@ -207,32 +230,8 @@ const patchNotes = [
       "Schaut euch um, haltet die Augen offen - vielleicht steht euer nächster Traumwagen schon irgendwo und wartet darauf, entdeckt zu werden"
     ],
   },
-  {
-    version: "Patchnotes",
-    date: "25.01.2026",
-    preview: "Shopräube, Crimeentwicklungen und Bugfixes",
-    changes: [
-     "Nach erfolgreichem Inhaberwechsel hat Benny’s nun eine neue Folie für den Bison",
-     "Einige Shops können nun überfallen werden - Wie? Findet es IC heraus! Überfälle sind Teamwork!",
-      "Weitere Crime-Entwicklungen wurden im Hintergrund vorbereitet",
-     "Armor Plates wurden technisch integriert",
-     "Golf - der Name kann nun auch vor dem Beitreten einer bestehenden Runde geändert werden",
-     "Das Lautsprecher-System wurde erneut überarbeitet, insbesondere zur Behebung von Performance-Problemen",
-    "Panicbutton-Sound wurde leiser abgestimmt und muss nun 3x gedrückt werden, um auszulösen"
-    ],
-  },
-  {
-    version: "Patchnotes",
-    date: "24.01.2026",
-    preview: "Panicbutton!",
-    changes: [
-      "Neuer Panicbutton für MD / FD / PD wurde eingeführt.",
-      "Der Alarm kann nur innerhalb der jeweiligen Fraktion ausgelöst werden.",
-      "Standardtaste: O (Buchstabe) → frei änderbar im Tab-Menü",
-      "Der Alarmton kommt aus dem Funkgerät und Sound ist bei allen Fraktionsmitgliedern, die den Dispatch erhalten, auch in der Umgebung hörbar"
-    ],
-  },
 ]
+
 
 
 
