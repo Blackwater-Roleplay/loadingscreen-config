@@ -197,6 +197,21 @@ const backgroundImages = [
 
 // Patch notes array with last 3 entries
 const patchNotes = [
+    {
+    version: "Patchnotes",
+    date: "01.02.2026",
+    preview: "XML Export, Updates für Handy Apps und Tattoos",
+    changes: [
+     "NULLchat: Die Übersicht der beigetretenen Chatrooms ist nun scrollbar - Zuvor waren nur drei Chatrooms sichtbar",
+      "Weazel News: Neue Rubrik „Werbung“ wurde hinzugefügt",
+      "Die Rubriken Stellenanzeigen, Werbung und Verkaufsanzeigen werden nicht mehr auf der Startseite angezeigt, sondern ausschließlich in ihren jeweiligen Bereichen",
+      "58 neue Männer-Tattoos & 57 neue Frauen-Tattoos",
+      "Die Tattoos sind nun funktionsfähig, für alle Tattoostudios verfügbar und in den Listen der Studios eingepflegt",
+      "Sum Ting Wong hat sich in Little Seoul niedergelassen und verkauft diverse Putzutensilien, inklusive Putzhandschuhe",
+      "Das Charakteraussehen kann nun im XML-Format exportiert werden - Das ermöglicht den Import des Charakters (so wie er auf dem Server existiert) z. B. in Menyoo",
+      "Befehl: menyooexport über die Ingame-F8-Konsole"
+    ],
+  },
       {
       version: "Patchnotes",
       date: "28.01.2026",
@@ -220,17 +235,8 @@ const patchNotes = [
         "Frauen: 15 Hüte, 96 Oberteile, 11 Hosen, 41 Ketten, 40 Taschen und Rucksäcke, 12 Ohrringe, 1 Paar Schuhe"
       ],
     },
-    {
-    version: "Patchnotes",
-    date: "27.01.2026",
-    preview: "Floorjan ist da!",
-    changes: [
-     "Importeur Floorjan ist in der Stadt eingetroffen und er kam nicht mit leeren Händen",
-      "Mehrere neue Fahrzeuge haben den Weg nach Los Santos gefunden",
-      "Schaut euch um, haltet die Augen offen - vielleicht steht euer nächster Traumwagen schon irgendwo und wartet darauf, entdeckt zu werden"
-    ],
-  },
 ]
+
 
 
 
