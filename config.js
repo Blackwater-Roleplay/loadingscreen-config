@@ -198,6 +198,28 @@ const backgroundImages = [
 // Patch notes array with last 3 entries
 const patchNotes = [
     {
+      version: "Patchnotes",
+      date: "06.02.2026",
+      preview: "Tablet- & Lifeinvaderupdate, Accessoires und Frisuren in der Pipeline",
+      changes: [
+        "52 Frisuren für Männer und 36 für Frauen (nach Einpflegen verfügbar)",
+        "zahlreiche Uhren, Hüte, Bandanas, Ketten, Bärte und Brillen eingefügt",
+        "Komplett überarbeitetes Tablet-System",
+        "Neuer Appstore eingeführt",
+        "Erste Apps verfügbar: Weazel News, NULLchat (weitere folgen, u. a. Buchhaltung)",
+        "Spiele direkt im Tablet integriert (z. B. Unblock It, Skribbl.io, 2048)",
+        "Homescreen-Hintergrund personalisierbar",
+        "Apps können per Drag & Drop angeordnet werden",
+        "Technische Vorbereitung für zukünftige Tablet-Erweiterungen",
+        "Likes für Kommentare hinzugefügt",
+        "Bugfix: „Mehr laden“-Button bei Kommentaren funktioniert nun korrekt",
+        "Bugfix: Beim Bearbeiten eines Beitrags bleibt die Formatierung erhalten",
+        "Discord Links werden nichtmehr als Uploadquelle für Bilder akzeptiert da diese Probleme verursachen und Bilder teilweise nach einer gewissen Dauer nichtmehr sichtbar sind",
+        "Im Hintergrund arbeiten wir schon an einer angenehmeren Lösung für den Bilderupload, mehr dazu auch soon™",
+        "Für das Aktensystem wurden einige Anfragen aus den Bugreport- und Vorschläge-Threads übernommen"
+      ],
+    },
+    {
     version: "Patchnotes",
     date: "01.02.2026",
     preview: "XML Export, Updates für Handy Apps und Tattoos",
@@ -209,7 +231,8 @@ const patchNotes = [
       "Die Tattoos sind nun funktionsfähig, für alle Tattoostudios verfügbar und in den Listen der Studios eingepflegt",
       "Sum Ting Wong hat sich in Little Seoul niedergelassen und verkauft diverse Putzutensilien, inklusive Putzhandschuhe",
       "Das Charakteraussehen kann nun im XML-Format exportiert werden - Das ermöglicht den Import des Charakters (so wie er auf dem Server existiert) z. B. in Menyoo",
-      "Befehl: menyooexport über die Ingame-F8-Konsole"
+      "Befehl: menyooexport über die Ingame-F8-Konsole",
+      "Ihr könnt nun andere Spieler durchsuchen - wenn sie sich ergeben"
     ],
   },
       {
@@ -224,18 +247,8 @@ const patchNotes = [
         "In der Stadt hat ein Musiklabel seine Pforten geöffnet. Dort können nun unter anderem Instrumente erworben werden"        
       ],
     },
-    {
-      version: "Patchnotes",
-      date: "28.01.2026",
-      preview: "Tattoostudio Update und Kleidung",
-      changes: [
-        "Tattoo-Maschinen sind jetzt als Item verfügbar (mit verschiedenen Animationen/Positionen für realistischeres Tätowieren)",
-        "Tattooliegen & -stühle haben nun feste Sitz-/Liegepositionen über das Interaktionsmenü, inkl. Bauch- und Rückenlage",
-        "Männer: 63 Hüte, 90 Oberteile, 7 Hosen, 4 Ketten, 19 Taschen und Rucksäcke, 5 Kopfhörer",
-        "Frauen: 15 Hüte, 96 Oberteile, 11 Hosen, 41 Ketten, 40 Taschen und Rucksäcke, 12 Ohrringe, 1 Paar Schuhe"
-      ],
-    },
 ]
+
 
 
 
