@@ -197,6 +197,24 @@ const backgroundImages = [
 
 // Patch notes array with last 3 entries
 const patchNotes = [
+      {
+      version: "Patchnotes",
+      date: "07.02.2026",
+      preview: "Paintball, LKW Shop und Atmosphäre",
+      changes: [
+        "Paintball ab jetzt im Free for All Modus spielbar",
+        "2 Waffen für Paintball eingefügt",
+        "leavepaintball um aus einer bestehenden Runde zu quitten",
+        "wer nur zuschauen möchte, kann dies vom Ausrüstungsraum tun",
+        "Weitere Modi, Leaderboards und private Gruppen sind bereits in Planung",
+        "Die städtischen Fahrzeug- und Motorradhändler stellen ihre Fahrzeuge nun aus",
+        "Die Fahrzeugfabrik der Bürger hat neue Rezepte erhalten",
+        "Lieferwagenhändler Philippo bietet nun ebenfalls Lieferfahrzeuge zum Verkauf an",
+        "Die LKW-Fabrik wird ihren Betrieb am Freitag, 13.02. einstellen",
+        "Autohäuser haben einen neuen Fahrzeugkatalog erhalten",
+        "Dafür wurde eine neue Fahrzeugfabrik erstellt – die bisherige Fahrzeugfabrik der Autohäuser stellt ebenfalls am Freitag, 13.02. um 00:00 ihren Betrieb ein"
+      ],
+    },
     {
       version: "Patchnotes",
       date: "06.02.2026",
@@ -235,19 +253,8 @@ const patchNotes = [
       "Ihr könnt nun andere Spieler durchsuchen - wenn sie sich ergeben"
     ],
   },
-      {
-      version: "Patchnotes",
-      date: "28.01.2026",
-      preview: "Freizeitupdate",
-      changes: [
-        "Fischerei wurde auf das offene Meer ausgeweitet (Hochsee-Ausrüstung erforderlich). Neue, seltene Meeresbewohner wurden hinzugefügt. Bergung verlorener Fracht an den Küsten ist nun möglich",
-        "Öffentliche Grillanlagen können von den Bürgerinnen und Bürger saniert und nutzbar gemacht werden. Grills können genutzt werden",
-        "Angeschwemmte Fracht und versiegelte Güter können nun geborgen werden. Seltene Meeresfunde können geschätzt und verkauft werden",
-        "Im späteren Verlauf des Abends öffnet die Bowlinghalle 'Pipeline Inn', nähe des Westhighways, ihre Pforten",
-        "In der Stadt hat ein Musiklabel seine Pforten geöffnet. Dort können nun unter anderem Instrumente erworben werden"        
-      ],
-    },
 ]
+
 
 
 
