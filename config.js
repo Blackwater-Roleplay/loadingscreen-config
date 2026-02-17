@@ -197,63 +197,59 @@ const backgroundImages = [
 
 // Patch notes array with last 3 entries
 const patchNotes = [
-      {
-      version: "Patchnotes",
-      date: "07.02.2026",
-      preview: "Paintball, LKW Shop und Atmosphäre",
-      changes: [
-        "Paintball ab jetzt im Free for All Modus spielbar",
-        "2 Waffen für Paintball eingefügt",
-        "leavepaintball um aus einer bestehenden Runde zu quitten",
-        "wer nur zuschauen möchte, kann dies vom Ausrüstungsraum tun",
-        "Weitere Modi, Leaderboards und private Gruppen sind bereits in Planung",
-        "Die städtischen Fahrzeug- und Motorradhändler stellen ihre Fahrzeuge nun aus",
-        "Die Fahrzeugfabrik der Bürger hat neue Rezepte erhalten",
-        "Lieferwagenhändler Philippo bietet nun ebenfalls Lieferfahrzeuge zum Verkauf an",
-        "Die LKW-Fabrik wird ihren Betrieb am Freitag, 13.02. einstellen",
-        "Autohäuser haben einen neuen Fahrzeugkatalog erhalten",
-        "Dafür wurde eine neue Fahrzeugfabrik erstellt – die bisherige Fahrzeugfabrik der Autohäuser stellt ebenfalls am Freitag, 13.02. um 00:00 ihren Betrieb ein"
-      ],
-    },
-    {
-      version: "Patchnotes",
-      date: "06.02.2026",
-      preview: "Tablet- & Lifeinvaderupdate, Accessoires und Frisuren in der Pipeline",
-      changes: [
-        "52 Frisuren für Männer und 36 für Frauen (nach Einpflegen verfügbar)",
-        "zahlreiche Uhren, Hüte, Bandanas, Ketten, Bärte und Brillen eingefügt",
-        "Komplett überarbeitetes Tablet-System",
-        "Neuer Appstore eingeführt",
-        "Erste Apps verfügbar: Weazel News, NULLchat (weitere folgen, u. a. Buchhaltung)",
-        "Spiele direkt im Tablet integriert (z. B. Unblock It, Skribbl.io, 2048)",
-        "Homescreen-Hintergrund personalisierbar",
-        "Apps können per Drag & Drop angeordnet werden",
-        "Technische Vorbereitung für zukünftige Tablet-Erweiterungen",
-        "Likes für Kommentare hinzugefügt",
-        "Bugfix: „Mehr laden“-Button bei Kommentaren funktioniert nun korrekt",
-        "Bugfix: Beim Bearbeiten eines Beitrags bleibt die Formatierung erhalten",
-        "Discord Links werden nichtmehr als Uploadquelle für Bilder akzeptiert da diese Probleme verursachen und Bilder teilweise nach einer gewissen Dauer nichtmehr sichtbar sind",
-        "Im Hintergrund arbeiten wir schon an einer angenehmeren Lösung für den Bilderupload, mehr dazu auch soon™",
-        "Für das Aktensystem wurden einige Anfragen aus den Bugreport- und Vorschläge-Threads übernommen"
-      ],
-    },
-    {
+  {
     version: "Patchnotes",
-    date: "01.02.2026",
-    preview: "XML Export, Updates für Handy Apps und Tattoos",
+    date: "11.02.2026",
+    preview: "Tablet-Icons, Outdoor-Content & Crime-Überarbeitung",
     changes: [
-     "NULLchat: Die Übersicht der beigetretenen Chatrooms ist nun scrollbar - Zuvor waren nur drei Chatrooms sichtbar",
-      "Weazel News: Neue Rubrik „Werbung“ wurde hinzugefügt",
-      "Die Rubriken Stellenanzeigen, Werbung und Verkaufsanzeigen werden nicht mehr auf der Startseite angezeigt, sondern ausschließlich in ihren jeweiligen Bereichen",
-      "58 neue Männer-Tattoos & 57 neue Frauen-Tattoos",
-      "Die Tattoos sind nun funktionsfähig, für alle Tattoostudios verfügbar und in den Listen der Studios eingepflegt",
-      "Sum Ting Wong hat sich in Little Seoul niedergelassen und verkauft diverse Putzutensilien, inklusive Putzhandschuhe",
-      "Das Charakteraussehen kann nun im XML-Format exportiert werden - Das ermöglicht den Import des Charakters (so wie er auf dem Server existiert) z. B. in Menyoo",
-      "Befehl: menyooexport über die Ingame-F8-Konsole",
-      "Ihr könnt nun andere Spieler durchsuchen - wenn sie sich ergeben"
+      "Icons auf dem Tablet wurden aktualisiert",
+      "Der Appstore zeigt Apps nun ebenfalls mit den neuen Icons an",
+      "Im Outdoor-Shop wurden neue Möbel und Dekoartikel hinzugefügt",
+      "An einigen Seen und Teichen in der Stadt kann nun gefischt werden – lasst euch dabei jedoch besser nicht erwischen",
+      "Minicrafting wurde überarbeitet und realistischer gestaltet",
+      "Einführung von Bausätzen, die gekauft oder selbst gecraftet werden können",
+      "Belohnungen und System beim Shopraub wurden angepasst",
+      "Fix für die Bestimmung der Gewinner beim Golf implementiert",
+      "Die Motorradfabrik stellt am 13.02. um 00:00 Uhr ihren Betrieb ein"
     ],
   },
+  {
+    version: "Patchnotes",
+    date: "14.02.2026",
+    preview: "Medic-System, Map-Optimierungen & Valentins-Event",
+    changes: [
+      "Einführung des Medic-Systems",
+      "Adrenalin-Schub verzögert nun Effekte",
+      "Schwere von Verletzungen wird nun angezeigt",
+      "HP und Verletzungen sind nun voneinander getrennt – volle HP trotz Verletzungen mit Effekten möglich",
+      "Weitere Blips für verschiedene Unternehmen wurden hinzugefügt",
+      "Die Stadt wurde grüner gestaltet",
+      "Hinweis für bessere Performance: Unter Erweiterte Grafik die erweiterte Darstellungsdistanz auf 0 % setzen",
+      "Illegales Fischen wurde angepasst",
+      "Belohnung für „Freunde werben“ wurde erhöht",
+      "Die bereits angekündigten Fabriken wurden entfernt",
+      "Kennzeichenerkennung bei Speedcams wurde deaktiviert",
+      "Handlinganpassungen für Komoda, Jester Classic, Archer Pro 2, Drafter und Ambassador",
+      "Valentins-Event startet um 21 Uhr"
+    ],
+  },
+  {
+    version: "Patchnotes",
+    date: "14.02.2026",
+    preview: "SAMD-Animationen, neue Tablet-Apps & Alltags-Verbesserungen",
+    changes: [
+      "17 Betten beim SAMD wurden mit Bauch- und Rücken-Liegeanimationen ausgestattet (Behandlungsräume, Röntgen, MRT usw.)",
+      "Nutzung der Liegeanimationen über das Interaktionsmenü (standardmäßig Mausrad reindrücken)",
+      "Aufstehen wie gewohnt mit WASD – identisch zu den Tattoostudios",
+      "Neue App Eventkalender im AppStore verfügbar",
+      "CodeNames als Spiel hinzugefügt mit provisorischem Lobby-System und Beitritt per Code",
+      "Schwämme können nun an bestimmten Wasserhähnen ausgewaschen werden – besonders nützlich für Werkstätten"
+    ],
+  },
+];
+
 ]
+
 
 
 
