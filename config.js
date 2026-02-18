@@ -245,10 +245,9 @@ const patchNotes = [
       "CodeNames als Spiel hinzugefügt mit provisorischem Lobby-System und Beitritt per Code",
       "Schwämme können nun an bestimmten Wasserhähnen ausgewaschen werden – besonders nützlich für Werkstätten"
     ],
-  },
-];
-
+  }
 ]
+
 
 
 
