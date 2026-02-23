@@ -199,6 +199,15 @@ const backgroundImages = [
 const patchNotes = [
   {
   version: "Patchnotes",
+  date: "23.02.2026",
+  preview: "Paintball Bugfixes",
+  changes: [
+    "Paintballschüsse haben nun keinen Einfluss mehr auf das Medicsystem",
+    "Ein Fehler, bei dem Schläge und Schüsse mit Schadenseffekt auch nach dem Paintball noch blockiert wurden, ist nun behoben"
+  ],
+},
+    {
+  version: "Patchnotes",
   date: "22.02.2026",
   preview: "Neue Fahrzeugrezepte im Crafting",
   changes: [
@@ -219,21 +228,9 @@ const patchNotes = [
     "Das PD hat ein Labor eingerichtet, in dem das MD Substanzen analysieren kann",
     "Bugfix: Positionen der Bauch- und Rückenliegeanimationen in Untersuchungsräumen korrigiert – kein Landen im Nebenraum mehr"
   ],
-},
-{
-  version: "Patchnotes",
-  date: "17.02.2026",
-  preview: "SAMD-Animationen, neue Tablet-Apps & Alltags-Verbesserungen",
-  changes: [
-    "17 Betten wurden mit Bauch- und Rücken-Liegeanimationen ausgestattet (Behandlungsräume, Röntgen, MRT usw.)",
-    "Nutzung der Liegeanimationen über das Interaktionsmenü (standardmäßig Mausrad reindrücken)",
-    "Aufstehen wie gewohnt mit WASD – identisch zu den Tattoostudios",
-    "Neue App Eventkalender im AppStore verfügbar",
-    "CodeNames als Spiel hinzugefügt mit provisorischem Lobby-System und Beitritt per Code",
-    "Schwämme können nun an bestimmten Wasserhähnen ausgewaschen werden – besonders nützlich für Werkstätten"
-  ],
-},
+}
 ]
+
 
 
 
