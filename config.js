@@ -198,55 +198,43 @@ const backgroundImages = [
 // Patch notes array with last 3 entries
 const patchNotes = [
   {
-    version: "Patchnotes",
-    date: "11.02.2026",
-    preview: "Tablet-Icons, Outdoor-Content & Crime-Überarbeitung",
-    changes: [
-      "Icons auf dem Tablet wurden aktualisiert",
-      "Der Appstore zeigt Apps nun ebenfalls mit den neuen Icons an",
-      "Im Outdoor-Shop wurden neue Möbel und Dekoartikel hinzugefügt",
-      "An einigen Seen und Teichen in der Stadt kann nun gefischt werden – lasst euch dabei jedoch besser nicht erwischen",
-      "Minicrafting wurde überarbeitet und realistischer gestaltet",
-      "Einführung von Bausätzen, die gekauft oder selbst gecraftet werden können",
-      "Belohnungen und System beim Shopraub wurden angepasst",
-      "Fix für die Bestimmung der Gewinner beim Golf implementiert",
-      "Die Motorradfabrik stellt am 13.02. um 00:00 Uhr ihren Betrieb ein"
-    ],
-  },
-  {
-    version: "Patchnotes",
-    date: "14.02.2026",
-    preview: "Medic-System, Map-Optimierungen & Valentins-Event",
-    changes: [
-      "Einführung des Medic-Systems",
-      "Adrenalin-Schub verzögert nun Effekte",
-      "Schwere von Verletzungen wird nun angezeigt",
-      "HP und Verletzungen sind nun voneinander getrennt – volle HP trotz Verletzungen mit Effekten möglich",
-      "Weitere Blips für verschiedene Unternehmen wurden hinzugefügt",
-      "Die Stadt wurde grüner gestaltet",
-      "Hinweis für bessere Performance: Unter Erweiterte Grafik die erweiterte Darstellungsdistanz auf 0 % setzen",
-      "Illegales Fischen wurde angepasst",
-      "Belohnung für „Freunde werben“ wurde erhöht",
-      "Die bereits angekündigten Fabriken wurden entfernt",
-      "Kennzeichenerkennung bei Speedcams wurde deaktiviert",
-      "Handlinganpassungen für Komoda, Jester Classic, Archer Pro 2, Drafter und Ambassador",
-      "Valentins-Event startet um 21 Uhr"
-    ],
-  },
-  {
-    version: "Patchnotes",
-    date: "14.02.2026",
-    preview: "SAMD-Animationen, neue Tablet-Apps & Alltags-Verbesserungen",
-    changes: [
-      "17 Betten beim SAMD wurden mit Bauch- und Rücken-Liegeanimationen ausgestattet (Behandlungsräume, Röntgen, MRT usw.)",
-      "Nutzung der Liegeanimationen über das Interaktionsmenü (standardmäßig Mausrad reindrücken)",
-      "Aufstehen wie gewohnt mit WASD – identisch zu den Tattoostudios",
-      "Neue App Eventkalender im AppStore verfügbar",
-      "CodeNames als Spiel hinzugefügt mit provisorischem Lobby-System und Beitritt per Code",
-      "Schwämme können nun an bestimmten Wasserhähnen ausgewaschen werden – besonders nützlich für Werkstätten"
-    ],
-  }
+  version: "Patchnotes",
+  date: "22.02.2026",
+  preview: "Neue Fahrzeugrezepte im Crafting",
+  changes: [
+    "Weitere Fahrzeugrezepte wurden dem Crafting hinzugefügt"
+  ],
+},
+{
+  version: "Patchnotes",
+  date: "21.02.2026",
+  preview: "Lautsprecher-Fixes, PD/MD-Labor & SAMD-Bugfix",
+  changes: [
+    "Synchronisierung der Lautsprecher gefixt – Musikstottern sollte nun nicht mehr auftreten",
+    "Verschiedene Lautsprecher-Varianten mit unterschiedlicher Maximalreichweite hinzugefügt",
+    "Lautsprecherscript für selbst abstellbare Items funktionsfähig gemacht",
+    "Sync-System weiter überarbeitet, um zu verhindern, dass entfernte Lautsprecher die lokale Instanz überschreiben",
+    "Datenbereinigung verbessert, wenn abgestellte Lautsprecher aufgehoben werden",
+    "Bereinigung für stationäre Lautsprecher angepasst",
+    "Das PD hat ein Labor eingerichtet, in dem das MD Substanzen analysieren kann",
+    "Bugfix: Positionen der Bauch- und Rückenliegeanimationen in Untersuchungsräumen korrigiert – kein Landen im Nebenraum mehr"
+  ],
+},
+{
+  version: "Patchnotes",
+  date: "17.02.2026",
+  preview: "SAMD-Animationen, neue Tablet-Apps & Alltags-Verbesserungen",
+  changes: [
+    "17 Betten wurden mit Bauch- und Rücken-Liegeanimationen ausgestattet (Behandlungsräume, Röntgen, MRT usw.)",
+    "Nutzung der Liegeanimationen über das Interaktionsmenü (standardmäßig Mausrad reindrücken)",
+    "Aufstehen wie gewohnt mit WASD – identisch zu den Tattoostudios",
+    "Neue App Eventkalender im AppStore verfügbar",
+    "CodeNames als Spiel hinzugefügt mit provisorischem Lobby-System und Beitritt per Code",
+    "Schwämme können nun an bestimmten Wasserhähnen ausgewaschen werden – besonders nützlich für Werkstätten"
+  ],
+},
 ]
+
 
 
 
