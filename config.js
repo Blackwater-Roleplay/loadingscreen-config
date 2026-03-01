@@ -198,38 +198,38 @@ const backgroundImages = [
 // Patch notes array with last 3 entries
 const patchNotes = [
   {
-  version: "Patchnotes",
-  date: "23.02.2026",
-  preview: "Paintball Bugfixes",
-  changes: [
-    "Paintballschüsse haben nun keinen Einfluss mehr auf das Medicsystem",
-    "Ein Fehler, bei dem Schläge und Schüsse mit Schadenseffekt auch nach dem Paintball noch blockiert wurden, ist nun behoben"
-  ],
-},
-    {
-  version: "Patchnotes",
-  date: "22.02.2026",
-  preview: "Neue Fahrzeugrezepte im Crafting",
-  changes: [
-    "Weitere Fahrzeugrezepte wurden dem Crafting hinzugefügt"
-  ],
-},
-{
-  version: "Patchnotes",
-  date: "21.02.2026",
-  preview: "Lautsprecher-Fixes, PD/MD-Labor & SAMD-Bugfix",
-  changes: [
-    "Synchronisierung der Lautsprecher gefixt – Musikstottern sollte nun nicht mehr auftreten",
-    "Verschiedene Lautsprecher-Varianten mit unterschiedlicher Maximalreichweite hinzugefügt",
-    "Lautsprecherscript für selbst abstellbare Items funktionsfähig gemacht",
-    "Sync-System weiter überarbeitet, um zu verhindern, dass entfernte Lautsprecher die lokale Instanz überschreiben",
-    "Datenbereinigung verbessert, wenn abgestellte Lautsprecher aufgehoben werden",
-    "Bereinigung für stationäre Lautsprecher angepasst",
-    "Das PD hat ein Labor eingerichtet, in dem das MD Substanzen analysieren kann",
-    "Bugfix: Positionen der Bauch- und Rückenliegeanimationen in Untersuchungsräumen korrigiert – kein Landen im Nebenraum mehr"
-  ],
-}
+    version: "Patchnotes",
+    date: "27.02.2026",
+    preview: "Jukebox-Fix, Racing-Anpassung & neue Features",
+    changes: [
+      "Jukebox-Fix – Songs werden nicht mehr überschrieben",
+      "Fredericks Outdoorshop bietet neue Sofas, Tische und Betten an",
+      "Racing Tablet: Mindestteilnehmerzahl von 5 auf 4 reduziert",
+      "Racing Tablet: Auszahlungsverteilung an die neue Mindestteilnehmerzahl angepasst",
+      "Forensiksystem der Medics erweitert",
+      "Flappy Bird wurde bei Lifeinvader als Spiel hinzugefügt",
+      "Die Los Santos Stadtreinigung kann nun Schrottautos/alte Autos ankaufen und verschrotten"
+    ],
+  },
+  {
+    version: "Patchnotes",
+    date: "23.02.2026",
+    preview: "Paintball Bugfixes",
+    changes: [
+      "Paintballschüsse haben nun keinen Einfluss mehr auf das Medicsystem",
+      "Ein Fehler, bei dem Schläge und Schüsse mit Schadenseffekt auch nach dem Paintball noch blockiert wurden, ist nun behoben"
+    ],
+  },
+  {
+    version: "Patchnotes",
+    date: "22.02.2026",
+    preview: "Neue Fahrzeugrezepte im Crafting",
+    changes: [
+      "Weitere Fahrzeugrezepte wurden dem Crafting hinzugefügt"
+    ],
+  },
 ]
+
 
 
 
