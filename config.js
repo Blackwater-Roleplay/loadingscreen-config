@@ -199,35 +199,67 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "27.02.2026",
-    preview: "Jukebox-Fix, Racing-Anpassung & neue Features",
+    date: "11.03.2026", 
+    preview: "Autoradio-Feature, Anpassungen am Shopraub-System und mehrere Housing-Bugfixes",
     changes: [
-      "Jukebox-Fix – Songs werden nicht mehr überschrieben",
-      "Fredericks Outdoorshop bietet neue Sofas, Tische und Betten an",
-      "Racing Tablet: Mindestteilnehmerzahl von 5 auf 4 reduziert",
-      "Racing Tablet: Auszahlungsverteilung an die neue Mindestteilnehmerzahl angepasst",
-      "Forensiksystem der Medics erweitert",
-      "Flappy Bird wurde bei Lifeinvader als Spiel hinzugefügt",
-      "Die Los Santos Stadtreinigung kann nun Schrottautos/alte Autos ankaufen und verschrotten"
+      "Bestimmte Lautsprecheritems können nun im Fahrzeug als Autoradio verwendet werden",
+      "Die abgespielte Musik ist ausschließlich für Fahrzeuginsassen hörbar",
+      "Das Autoradio kann nur vom Fahrer- oder Beifahrersitz gesteuert werden",
+      "Anforderungen zum Starten eines Shopraubs wurden angepasst",
+      "Fehler behoben, bei dem Spieler, die nicht Besitzer eines Hauses sind, im falschen Interior gespawnt sind",
+      "Fehler behoben, bei dem Spieler beim Einloggen in Wohnungen sterben oder aus dem Interior fallen konnten"
     ],
-  },
+  }, 
   {
     version: "Patchnotes",
-    date: "23.02.2026",
-    preview: "Paintball Bugfixes",
+    date: "09.03.2026",
+    preview: "Housing-System gestartet, über 240 Häuser & Wohnungen verfügbar sowie Verbesserungen am Racing-Tablet",
     changes: [
-      "Paintballschüsse haben nun keinen Einfluss mehr auf das Medicsystem",
-      "Ein Fehler, bei dem Schläge und Schüsse mit Schadenseffekt auch nach dem Paintball noch blockiert wurden, ist nun behoben"
+      "Housing-System eingeführt – erste Häuser und Wohnungen in mehreren Stadtteilen verfügbar",
+      "Davis: 78 Häuser und Wohnungen hinzugefügt",
+      "Eastside: 91 Häuser und Wohnungen hinzugefügt",
+      "Vinewood: 18 Wohnungen hinzugefügt (Häuser folgen)",
+      "Westside: 58 Wohnungen hinzugefügt",
+      "Weitere Häuser und Wohnungen werden in den kommenden Tagen ergänzt",
+      "Custom-Shells für weitere Wohnbereiche (z. B. Vinewood, Kanäle und Rockford) in Arbeit",
+      "Ein Möbelhändler für die Einrichtung der Häuser wird bald verfügbar sein",
+      "Racing-Tablet: Bestzeiten-Auswertung vereinheitlicht – bei Rundkursen wird nun korrekt die beste einzelne Runde gewertet",
+      "Racing-Tablet: GPS-Navigationslinie zeigt nun wieder korrekt zum nächsten Checkpoint statt zum drittnächsten"
     ],
   },
+
   {
     version: "Patchnotes",
-    date: "22.02.2026",
-    preview: "Neue Fahrzeugrezepte im Crafting",
+    date: "06.03.2026",
+    preview: "Neue Pizzeria-Location, Partneranimationen für 2 Spieler, Racing-Tablet Verbesserungen und große Erweiterung des Outdoor-Shops",
     changes: [
-      "Weitere Fahrzeugrezepte wurden dem Crafting hinzugefügt"
+      "Neue Pizzeria-Location (MLO) in der Nähe des Würfelparks hinzugefügt",
+      "3 neue Tische mit jeweils 4 Sitzplätzen in der Pizzeria platziert",
+      "Synchronisierte Partneranimationen für 2 Spieler eingeführt",
+      "Partneranimationen können standardmäßig über Taste 7 geöffnet werden",
+      "Animationsanfragen können ebenfalls über Taste 7 angenommen werden",
+      "Favoritenfunktion für synchronisierte Animationen hinzugefügt",
+      "Filterfunktion nach Geschlecht bei Animationen mit Rollen integriert",
+      "Synchronisierte Animationen können über Taste 7 abgebrochen werden",
+      "Fehler behoben, bei dem Partneranimationen nicht korrekt für beide Spieler abgespielt wurden",
+      "Fehler behoben, bei dem Spieler beim Tragen eines anderen Spielers vom Maze Bank Tower springen konnten ohne zu sterben",
+      "Racing-Tablet: Aktivitätsbonus-Auszahlung gefixt",
+      "Racing-Tablet: In der Streckenübersicht werden nun die 5 besten Zeiten angezeigt",
+      "Racing-Tablet: Logging für Buy-Ins und Auszahlungen verbessert",
+      "Racing-Tablet: Checkpoint-Anzeige überarbeitet – es werden nun die nächsten 3 Checkpoints angezeigt",
+      "Racing-Tablet: Visuelle Route zwischen Checkpoints wird nun auf der Minimap dargestellt",
+      "Outdoor-Shop: Neues Picknick-Set hinzugefügt (10 Decken, 2 Kissen und 2 Körbe)",
+      "Outdoor-Shop: Kollisionen für Outdoor-Tische, Sofas und Betten gefixt und wieder verfügbar gemacht",
+      "Outdoor-Shop: 5 neue Zäune hinzugefügt",
+      "Outdoor-Shop: 8 neue Rattan-Couches hinzugefügt",
+      "Outdoor-Shop: 1 neues Hundehaus hinzugefügt",
+      "Outdoor-Shop: 1 Hundenapf hinzugefügt",
+      "Outdoor-Shop: 5 neue Hundebetten hinzugefügt",
+      "Food-Unternehmen: Essen und Getränke verschiedener Unternehmen wurden überarbeitet",
+      "Food-Unternehmen: Items wurden auf stackbare Items umgestellt",
+      "Überarbeitung der Menükarten verschiedener Unternehmen begonnen"
     ],
-  },
+  }
 ]
 
 
