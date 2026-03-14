@@ -199,7 +199,54 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "11.03.2026", 
+    date: "13.03.2026",
+    preview: "Neue Crime-Route, dynamischer Ressourcenhandel, Änderungen bei Händlern und Updates am Tablet",
+    changes: [
+      "App-Icons für Auktionshaus, Flappy Bird und Codenames wurden aktualisiert",
+      "Bodo betreibt nun einen dynamischen Ressource -An- & Verkauf",
+      "Das Schiff mit den Importwaren hat seinen Standort geändert",
+      "Oma Hilde kauft und verkauft nun Obst und Gemüse (ebenfalls dynamisch)",
+      "Ein privater Ressourcenhandel hat eröffnet",
+      "Die BeanMachine wird demnächst ihre Pforten öffnen",
+      "Harald ist an einen neuen Standort umgezogen",
+      "Eine neue Route für MCs & Rocker wurde eingeführt",
+      "Samen und Säure werden nicht mehr direkt über das Kartell verteilt",
+      "Stattdessen gibt es nun mehrere Handlanger in der Stadt, die überzeugt werden müssen, mit euch zusammenzuarbeiten",
+      "Gelingt es euch, sie auf eure Seite zu ziehen, versorgen sie euch täglich mit Samen",
+      "Jede Route hat eigene Dealer, diese arbeiten nicht mit jeder Art von Gruppierung zusammen",
+      "Dealer können außerdem von anderen Gruppen abgeworben werden – Loyalität ist also nicht garantiert"
+    ],
+  },
+
+  {
+    version: "Patchnotes",
+    date: "12.03.2026",
+    preview: "Serverumzug, neue tägliche Rennen, Dating-App auf dem Tablet und Vorbereitungen für Housing & Auktionshaus",
+    changes: [
+      "Der Server wurde erfolgreich umgezogen",
+      "2 tägliche Rennen eingeführt",
+      "Die täglichen Rennen besitzen einen zusätzlichen Preispool, der zusammen mit den Buy-Ins unter der Top 3 aufgeteilt wird",
+      "Weitere Crime-Entwicklungen wurden im Hintergrund vorbereitet",
+      "Vorbereitungen für eine Auktions-App getroffen",
+      "Die Dating-App „Needy“ ist nun auf dem Tablet verfügbar",
+      "Die Allgemeine Zulassungsstelle ist zur Kennzeichen-Zulassungsstelle umgezogen",
+      "Der Schirmhändler ist nach Sandy Shores umgezogen",
+      "Sum Ting Wong ist nun beim Baumarkt zu finden",
+      "Die Map wurde aufgeräumt und verschiedene Blips entfernt, um die Übersicht zu verbessern",
+      "Ein Tutorial-Guide wurde eingerichtet, der häufige Fragen zur Spielmechanik erklärt",
+      "Das Tutorial wird laufend erweitert, um neuen Spielern den Einstieg zu erleichtern",
+      "Das Tutorial ist im TAB-Menü ausstellbar",
+      "Weitere Vorbereitungen fürs Housing wurden getroffen",
+      "In den nächsten Tagen werden weitere Häuser mietbar sein",
+      "Verbandskästen sind nun herstellbar",
+      "Einige Fabriken haben neue Rezepte erhalten",
+      "Der Lebensmittelmarkt hat zusätzliche Waren erhalten"
+    ],
+  },
+
+  {
+    version: "Patchnotes",
+    date: "11.03.2026",
     preview: "Autoradio-Feature, Anpassungen am Shopraub-System und mehrere Housing-Bugfixes",
     changes: [
       "Bestimmte Lautsprecheritems können nun im Fahrzeug als Autoradio verwendet werden",
@@ -208,56 +255,6 @@ const patchNotes = [
       "Anforderungen zum Starten eines Shopraubs wurden angepasst",
       "Fehler behoben, bei dem Spieler, die nicht Besitzer eines Hauses sind, im falschen Interior gespawnt sind",
       "Fehler behoben, bei dem Spieler beim Einloggen in Wohnungen sterben oder aus dem Interior fallen konnten"
-    ],
-  }, 
-  {
-    version: "Patchnotes",
-    date: "09.03.2026",
-    preview: "Housing-System gestartet, über 240 Häuser & Wohnungen verfügbar sowie Verbesserungen am Racing-Tablet",
-    changes: [
-      "Housing-System eingeführt – erste Häuser und Wohnungen in mehreren Stadtteilen verfügbar",
-      "Davis: 78 Häuser und Wohnungen hinzugefügt",
-      "Eastside: 91 Häuser und Wohnungen hinzugefügt",
-      "Vinewood: 18 Wohnungen hinzugefügt (Häuser folgen)",
-      "Westside: 58 Wohnungen hinzugefügt",
-      "Weitere Häuser und Wohnungen werden in den kommenden Tagen ergänzt",
-      "Custom-Shells für weitere Wohnbereiche (z. B. Vinewood, Kanäle und Rockford) in Arbeit",
-      "Ein Möbelhändler für die Einrichtung der Häuser wird bald verfügbar sein",
-      "Racing-Tablet: Bestzeiten-Auswertung vereinheitlicht – bei Rundkursen wird nun korrekt die beste einzelne Runde gewertet",
-      "Racing-Tablet: GPS-Navigationslinie zeigt nun wieder korrekt zum nächsten Checkpoint statt zum drittnächsten"
-    ],
-  },
-
-  {
-    version: "Patchnotes",
-    date: "06.03.2026",
-    preview: "Neue Pizzeria-Location, Partneranimationen für 2 Spieler, Racing-Tablet Verbesserungen und große Erweiterung des Outdoor-Shops",
-    changes: [
-      "Neue Pizzeria-Location (MLO) in der Nähe des Würfelparks hinzugefügt",
-      "3 neue Tische mit jeweils 4 Sitzplätzen in der Pizzeria platziert",
-      "Synchronisierte Partneranimationen für 2 Spieler eingeführt",
-      "Partneranimationen können standardmäßig über Taste 7 geöffnet werden",
-      "Animationsanfragen können ebenfalls über Taste 7 angenommen werden",
-      "Favoritenfunktion für synchronisierte Animationen hinzugefügt",
-      "Filterfunktion nach Geschlecht bei Animationen mit Rollen integriert",
-      "Synchronisierte Animationen können über Taste 7 abgebrochen werden",
-      "Fehler behoben, bei dem Partneranimationen nicht korrekt für beide Spieler abgespielt wurden",
-      "Fehler behoben, bei dem Spieler beim Tragen eines anderen Spielers vom Maze Bank Tower springen konnten ohne zu sterben",
-      "Racing-Tablet: Aktivitätsbonus-Auszahlung gefixt",
-      "Racing-Tablet: In der Streckenübersicht werden nun die 5 besten Zeiten angezeigt",
-      "Racing-Tablet: Logging für Buy-Ins und Auszahlungen verbessert",
-      "Racing-Tablet: Checkpoint-Anzeige überarbeitet – es werden nun die nächsten 3 Checkpoints angezeigt",
-      "Racing-Tablet: Visuelle Route zwischen Checkpoints wird nun auf der Minimap dargestellt",
-      "Outdoor-Shop: Neues Picknick-Set hinzugefügt (10 Decken, 2 Kissen und 2 Körbe)",
-      "Outdoor-Shop: Kollisionen für Outdoor-Tische, Sofas und Betten gefixt und wieder verfügbar gemacht",
-      "Outdoor-Shop: 5 neue Zäune hinzugefügt",
-      "Outdoor-Shop: 8 neue Rattan-Couches hinzugefügt",
-      "Outdoor-Shop: 1 neues Hundehaus hinzugefügt",
-      "Outdoor-Shop: 1 Hundenapf hinzugefügt",
-      "Outdoor-Shop: 5 neue Hundebetten hinzugefügt",
-      "Food-Unternehmen: Essen und Getränke verschiedener Unternehmen wurden überarbeitet",
-      "Food-Unternehmen: Items wurden auf stackbare Items umgestellt",
-      "Überarbeitung der Menükarten verschiedener Unternehmen begonnen"
     ],
   }
 ]
