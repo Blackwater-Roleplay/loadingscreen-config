@@ -199,63 +199,55 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "18.03.2026",
+    preview: "Neue Wohnwagen, Möbel-Updates, Technikfixes und Anpassungen im Crime-System",
+    changes: [
+      "46 Wohnwägen sind nun mietbar",
+      "351 neue Möbelstücke bei Nimdir Myt hinzugefügt",
+      "Im Outdoor-Store wurden 3 Pavillons und 1 Laterne hinzugefügt",
+      "Diverse Bugfixes am Tutorial vorgenommen",
+      "Fehlerbehebungen im Objekt-Streamer",
+      "Fix für Starterwohnungen – erneutes Mieten sollte nun funktionieren",
+      "Reichweite beim Auf- und Zuschließen von Fahrzeugen von 20 m auf 8 m reduziert",
+      "Hauptfarbe des Frameworks angepasst",
+      "Fehler behoben, bei dem Dealer zu schnell eingenommen werden konnten"
+    ]
+  },
+  {
+    version: "Patchnotes",
+    date: "15.03.2026",
+    preview: "Housing-Updates, Garage-Fixes, Inventarverbesserungen und neue Fahrzeugbaupläne",
+    changes: [
+      "Fehler behoben, durch den einige medizinische Items Effekte und Verletzungen nicht korrekt entfernten",
+      "Kochen ist nun in Häusern möglich; auch unmöblierte Häuser besitzen jetzt Kühlschränke und Herde",
+      "Low- und Mid-Garagen haben nun einen zweiten Parkslot",
+      "106 neue Häuser und 20 Wohnungen im Westen der Karte hinzugefügt",
+      "Der Möbelverkäufer wird im Laufe des Tages seinen Betrieb aufnehmen",
+      "Mehrere Fehler bei Garagen und Interiors behoben (Fahrzeuge nur für Besitzer sichtbar, Ausparken nur durch Hausbesitzer möglich, Fahrzeuge verschwanden bei voller Garage oder beim Verlassen, falsche Interiors beim Betreten, Sichtbarkeitsprobleme zwischen Spielern)",
+      "Fehler behoben, bei dem keine Inventar-Aktionen möglich waren, wenn ALT gedrückt wurde",
+      "Items können nun gezielt übergeben werden, indem sie mit der mittleren Maustaste auf einen Spieler gezogen werden",
+      "Registrierungsproblem in der Dating-App „Needy“ auf dem Tablet behoben",
+      "Neue Baupläne für Autohäuser, Bikehändler und die zivile Autofabrik werden um 20:00 Uhr verfügbar"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "13.03.2026",
     preview: "Neue Crime-Route, dynamischer Ressourcenhandel, Änderungen bei Händlern und Updates am Tablet",
     changes: [
       "App-Icons für Auktionshaus, Flappy Bird und Codenames wurden aktualisiert",
-      "Bodo betreibt nun einen dynamischen Ressource -An- & Verkauf",
-      "Das Schiff mit den Importwaren hat seinen Standort geändert",
-      "Oma Hilde kauft und verkauft nun Obst und Gemüse (ebenfalls dynamisch)",
+      "Bodo betreibt nun einen dynamischen Ressourcen-An- und Verkauf",
+      "Oma Hilde kauft und verkauft nun dynamisch Obst und Gemüse",
       "Ein privater Ressourcenhandel hat eröffnet",
-      "Die BeanMachine wird demnächst ihre Pforten öffnen",
+      "Das Schiff mit den Importwaren hat seinen Standort geändert",
       "Harald ist an einen neuen Standort umgezogen",
-      "Eine neue Route für MCs & Rocker wurde eingeführt",
+      "Die BeanMachine wird demnächst ihre Pforten öffnen",
+      "Neue Route für MCs und Rocker eingeführt",
       "Samen und Säure werden nicht mehr direkt über das Kartell verteilt",
-      "Stattdessen gibt es nun mehrere Handlanger in der Stadt, die überzeugt werden müssen, mit euch zusammenzuarbeiten",
-      "Gelingt es euch, sie auf eure Seite zu ziehen, versorgen sie euch täglich mit Samen",
-      "Jede Route hat eigene Dealer, diese arbeiten nicht mit jeder Art von Gruppierung zusammen",
-      "Dealer können außerdem von anderen Gruppen abgeworben werden – Loyalität ist also nicht garantiert"
-    ],
-  },
-
-  {
-    version: "Patchnotes",
-    date: "12.03.2026",
-    preview: "Serverumzug, neue tägliche Rennen, Dating-App auf dem Tablet und Vorbereitungen für Housing & Auktionshaus",
-    changes: [
-      "Der Server wurde erfolgreich umgezogen",
-      "2 tägliche Rennen eingeführt",
-      "Die täglichen Rennen besitzen einen zusätzlichen Preispool, der zusammen mit den Buy-Ins unter der Top 3 aufgeteilt wird",
-      "Weitere Crime-Entwicklungen wurden im Hintergrund vorbereitet",
-      "Vorbereitungen für eine Auktions-App getroffen",
-      "Die Dating-App „Needy“ ist nun auf dem Tablet verfügbar",
-      "Die Allgemeine Zulassungsstelle ist zur Kennzeichen-Zulassungsstelle umgezogen",
-      "Der Schirmhändler ist nach Sandy Shores umgezogen",
-      "Sum Ting Wong ist nun beim Baumarkt zu finden",
-      "Die Map wurde aufgeräumt und verschiedene Blips entfernt, um die Übersicht zu verbessern",
-      "Ein Tutorial-Guide wurde eingerichtet, der häufige Fragen zur Spielmechanik erklärt",
-      "Das Tutorial wird laufend erweitert, um neuen Spielern den Einstieg zu erleichtern",
-      "Das Tutorial ist im TAB-Menü ausstellbar",
-      "Weitere Vorbereitungen fürs Housing wurden getroffen",
-      "In den nächsten Tagen werden weitere Häuser mietbar sein",
-      "Verbandskästen sind nun herstellbar",
-      "Einige Fabriken haben neue Rezepte erhalten",
-      "Der Lebensmittelmarkt hat zusätzliche Waren erhalten"
-    ],
-  },
-
-  {
-    version: "Patchnotes",
-    date: "11.03.2026",
-    preview: "Autoradio-Feature, Anpassungen am Shopraub-System und mehrere Housing-Bugfixes",
-    changes: [
-      "Bestimmte Lautsprecheritems können nun im Fahrzeug als Autoradio verwendet werden",
-      "Die abgespielte Musik ist ausschließlich für Fahrzeuginsassen hörbar",
-      "Das Autoradio kann nur vom Fahrer- oder Beifahrersitz gesteuert werden",
-      "Anforderungen zum Starten eines Shopraubs wurden angepasst",
-      "Fehler behoben, bei dem Spieler, die nicht Besitzer eines Hauses sind, im falschen Interior gespawnt sind",
-      "Fehler behoben, bei dem Spieler beim Einloggen in Wohnungen sterben oder aus dem Interior fallen konnten"
-    ],
+      "Mehrere Handlanger in der Stadt können überzeugt werden, täglich Samen zu liefern",
+      "Jede Route besitzt eigene Dealer, die nicht mit jeder Gruppierung zusammenarbeiten",
+      "Dealer können von anderen Gruppen abgeworben werden – ihre Loyalität ist nicht garantiert"
+    ]
   }
 ]
 
