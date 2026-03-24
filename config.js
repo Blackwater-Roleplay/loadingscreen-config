@@ -199,59 +199,48 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "18.03.2026",
-    preview: "Neue Wohnwagen, Möbel-Updates, Technikfixes und Anpassungen im Crime-System",
+    date: "24.03.2026",
+    preview: "Neue Crime-Route, Wirtschaftsanpassungen, Crafting-Updates und Fahrzeugänderungen",
     changes: [
-      "46 Wohnwägen sind nun mietbar",
-      "351 neue Möbelstücke bei Nimdir Myt hinzugefügt",
-      "Im Outdoor-Store wurden 3 Pavillons und 1 Laterne hinzugefügt",
-      "Diverse Bugfixes am Tutorial vorgenommen",
-      "Fehlerbehebungen im Objekt-Streamer",
-      "Fix für Starterwohnungen – erneutes Mieten sollte nun funktionieren",
-      "Reichweite beim Auf- und Zuschließen von Fahrzeugen von 20 m auf 8 m reduziert",
-      "Hauptfarbe des Frameworks angepasst",
-      "Fehler behoben, bei dem Dealer zu schnell eingenommen werden konnten"
+      "Neue Drogenroute eingeführt, die von allen Bürgern genutzt werden kann",
+      "Dealer-System überarbeitet (Fraktionsdealer nur mit Qualifizierung, Abnehmer frei ansprechbar)",
+      "Nahkampfwaffen angepasst",
+      "Bodo’s Import verkauft nur noch an Auto- und Motorradhandel",
+      "Recycling Ronny verkauft keine Plastiktüten und Verpackungsbänder mehr",
+      "Medikamente sind nun stackbar, Stackgröße von Grillitems erhöht",
+      "Lifeinvader- und Racing-Tablet haben neue Icons erhalten",
+      "Chemielabor und Waffenteilefabrik haben neue Rezepte erhalten",
+      "PD-Ausrüstungssystem fertiggestellt",
+      "Bootswerkstatt bei der Bootsfabrik hinzugefügt (für alle Werkstätten nutzbar)",
+      "Buffalo ST PI Handling angepasst"
     ]
   },
   {
     version: "Patchnotes",
-    date: "15.03.2026",
-    preview: "Housing-Updates, Garage-Fixes, Inventarverbesserungen und neue Fahrzeugbaupläne",
+    date: "22.03.2026",
+    preview: "Große Housing-Erweiterung, Systemverbesserungen, Respawn-Update und Transportänderungen",
     changes: [
-      "Fehler behoben, durch den einige medizinische Items Effekte und Verletzungen nicht korrekt entfernten",
-      "Kochen ist nun in Häusern möglich; auch unmöblierte Häuser besitzen jetzt Kühlschränke und Herde",
-      "Low- und Mid-Garagen haben nun einen zweiten Parkslot",
-      "106 neue Häuser und 20 Wohnungen im Westen der Karte hinzugefügt",
-      "Der Möbelverkäufer wird im Laufe des Tages seinen Betrieb aufnehmen",
-      "Mehrere Fehler bei Garagen und Interiors behoben (Fahrzeuge nur für Besitzer sichtbar, Ausparken nur durch Hausbesitzer möglich, Fahrzeuge verschwanden bei voller Garage oder beim Verlassen, falsche Interiors beim Betreten, Sichtbarkeitsprobleme zwischen Spielern)",
-      "Fehler behoben, bei dem keine Inventar-Aktionen möglich waren, wenn ALT gedrückt wurde",
-      "Items können nun gezielt übergeben werden, indem sie mit der mittleren Maustaste auf einen Spieler gezogen werden",
-      "Registrierungsproblem in der Dating-App „Needy“ auf dem Tablet behoben",
-      "Neue Baupläne für Autohäuser, Bikehändler und die zivile Autofabrik werden um 20:00 Uhr verfügbar"
+      "Über 230 neue mietbare Häuser außerhalb der Stadt und im Luxussegment hinzugefügt",
+      "Fehler beim Betreten/Spawnen in Wohnungen (Tod, Fallen, Verletzungen) behoben",
+      "Mietpreis-Anzeige korrigiert",
+      "Neue Badezimmer-Möbel und dekorative Wasserwand hinzugefügt",
+      "Durchsuchungssystem angepasst, Trainingswaffen und Forensiklager für PD eingeführt",
+      "Neues Respawn-System mit eigenem Screen eingeführt (kein Finishen mehr möglich)",
+      "S-Bahnen und Züge fahren wieder, Haltestellen auf der Karte markiert",
+      "Sozialwohnungen näher an Infrastruktur verlegt und im Tutorial hervorgehoben"
     ]
   },
   {
     version: "Patchnotes",
-    date: "13.03.2026",
-    preview: "Neue Crime-Route, dynamischer Ressourcenhandel, Änderungen bei Händlern und Updates am Tablet",
+    date: "19.03.2026",
+    preview: "Neue Häuser in Sandy Shores und Grapeseed sowie Anpassung der Rocker-Route",
     changes: [
-      "App-Icons für Auktionshaus, Flappy Bird und Codenames wurden aktualisiert",
-      "Bodo betreibt nun einen dynamischen Ressourcen-An- und Verkauf",
-      "Oma Hilde kauft und verkauft nun dynamisch Obst und Gemüse",
-      "Ein privater Ressourcenhandel hat eröffnet",
-      "Das Schiff mit den Importwaren hat seinen Standort geändert",
-      "Harald ist an einen neuen Standort umgezogen",
-      "Die BeanMachine wird demnächst ihre Pforten öffnen",
-      "Neue Route für MCs und Rocker eingeführt",
-      "Samen und Säure werden nicht mehr direkt über das Kartell verteilt",
-      "Mehrere Handlanger in der Stadt können überzeugt werden, täglich Samen zu liefern",
-      "Jede Route besitzt eigene Dealer, die nicht mit jeder Gruppierung zusammenarbeiten",
-      "Dealer können von anderen Gruppen abgeworben werden – ihre Loyalität ist nicht garantiert"
+      "83 neue Häuser in Sandy Shores und Grapeseed hinzugefügt",
+      "28 Villen sind nun mietbar",
+      "Rocker-Route im Crime-System angepasst"
     ]
   }
 ]
-
-
 
 
 
