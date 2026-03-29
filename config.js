@@ -199,35 +199,27 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "24.03.2026",
-    preview: "Neue Crime-Route, Wirtschaftsanpassungen, Crafting-Updates und Fahrzeugänderungen",
+    date: "28.03.2026 17:00",
+    preview: "Baumarkt-Umzug, neue Möbel, NPC-/Zug-Fixes und erste Behörden-Features",
     changes: [
-      "Neue Drogenroute eingeführt, die von allen Bürgern genutzt werden kann",
-      "Dealer-System überarbeitet (Fraktionsdealer nur mit Qualifizierung, Abnehmer frei ansprechbar)",
-      "Nahkampfwaffen angepasst",
-      "Bodo’s Import verkauft nur noch an Auto- und Motorradhandel",
-      "Recycling Ronny verkauft keine Plastiktüten und Verpackungsbänder mehr",
-      "Medikamente sind nun stackbar, Stackgröße von Grillitems erhöht",
-      "Lifeinvader- und Racing-Tablet haben neue Icons erhalten",
-      "Chemielabor und Waffenteilefabrik haben neue Rezepte erhalten",
-      "PD-Ausrüstungssystem fertiggestellt",
-      "Bootswerkstatt bei der Bootsfabrik hinzugefügt (für alle Werkstätten nutzbar)",
-      "Buffalo ST PI Handling angepasst"
+      "Baumarkt wurde verlegt, vollständig eingerichtet und enthält nun Möbel-, Bad- und Elektroartikel in verschiedenen Abteilungen sowie den Ressourcen An- & Verkauf",
+      "7 neue Deckenlampen im Möbelshop verfügbar und weitere Küchenutensilien in Planung",
+      "Schlüsselkastensystem für Behörden hinzugefügt (aktuell in Testphase)",
+      "6 Sitzbänke im Rex Diner über das Interaktionsmenü nutzbar gemacht",
+      "Fehler behoben, sodass keine 'wilden' NPCs und Züge mehr spawnen; Haltestellen entsprechend deaktiviert"
     ]
   },
   {
     version: "Patchnotes",
-    date: "22.03.2026",
-    preview: "Große Housing-Erweiterung, Systemverbesserungen, Respawn-Update und Transportänderungen",
+    date: "27.03.2026 19:11",
+    preview: "Crime- und Crafting-Updates, neue Möbel & Fixes sowie Fahrzeug-Handling-Anpassungen",
     changes: [
-      "Über 230 neue mietbare Häuser außerhalb der Stadt und im Luxussegment hinzugefügt",
-      "Fehler beim Betreten/Spawnen in Wohnungen (Tod, Fallen, Verletzungen) behoben",
-      "Mietpreis-Anzeige korrigiert",
-      "Neue Badezimmer-Möbel und dekorative Wasserwand hinzugefügt",
-      "Durchsuchungssystem angepasst, Trainingswaffen und Forensiklager für PD eingeführt",
-      "Neues Respawn-System mit eigenem Screen eingeführt (kein Finishen mehr möglich)",
-      "S-Bahnen und Züge fahren wieder, Haltestellen auf der Karte markiert",
-      "Sozialwohnungen näher an Infrastruktur verlegt und im Tutorial hervorgehoben"
+      "Phosphorlieferungen im Crime-System angepasst und eine weitere Route fertiggestellt",
+      "Schwefelkisten können nun hergestellt werden und die schmutzige Serviette wurde als kleineres Prop ersetzt",
+      "Neue Einrichtungsinhalte: 5 funktionale Grills, 5 Sonnenschirme wieder verfügbar, +19 neue Badezimmer-Items und bestehende Badezimmer-Items in neuen Shop verschoben",
+      "Housing-Fixes: Eingetragene Spieler bei Wohnungen/Häusern funktionieren korrekt und Anpassung eines Schranks in der Franklinvilla",
+      "Fahrzeug-Handling überarbeitet: Importfahrzeuge angepasst sowie Police Coquette D10, Police Vigero und Police Buffalo ST PI angepasst",
+      "Neue Importfahrzeuge verfügbar, da Florjan zurück im Staat ist"
     ]
   },
   {
