@@ -199,7 +199,7 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "28.03.2026 17:00",
+    date: "28.03.2026",
     preview: "Baumarkt-Umzug, neue Möbel, NPC-/Zug-Fixes und erste Behörden-Features",
     changes: [
       "Baumarkt wurde verlegt, vollständig eingerichtet und enthält nun Möbel-, Bad- und Elektroartikel in verschiedenen Abteilungen sowie den Ressourcen An- & Verkauf",
@@ -211,7 +211,7 @@ const patchNotes = [
   },
   {
     version: "Patchnotes",
-    date: "27.03.2026 19:11",
+    date: "27.03.2026",
     preview: "Crime- und Crafting-Updates, neue Möbel & Fixes sowie Fahrzeug-Handling-Anpassungen",
     changes: [
       "Phosphorlieferungen im Crime-System angepasst und eine weitere Route fertiggestellt",
