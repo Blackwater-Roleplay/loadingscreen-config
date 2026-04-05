@@ -199,6 +199,30 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "05.04.2026",
+    preview: "Housing-Fixes, neue Möbel, Händler-Umstrukturierung und Crime-Erweiterungen",
+    changes: [
+      "Einparken in Hausgaragen auf passende Fahrzeugtypen limitiert und Fehler behoben, wodurch Spieler nach dem Spawnen nicht mehr durch die Map fallen oder sterben",
+      "Neue Outdoor-Möbel wie Springbrunnen und Whirlpool sowie Erweiterung der Möbelshops mit 11 Lampen und 1 Computer bei Tech Nick, 6 Dekoartikeln und 27 Gemälden bei Deko Dörte und 1 neuem Regal",
+      "Rezept für Glasflaschen angepasst",
+      "Fahrzeugteilehändler nach Paleto verlegt, Waffenteilehändlerin verkauft Baupläne nun in der Eastside und Großmarkt sowie Lebensmittelmarkt zusammengelegt",
+      "Crime-Fraktionen können Shops einnehmen und Schutzgeld basierend auf Einnahmen verlangen sowie Anpassung des Preises für Mohnflaschen"
+    ]
+  },
+  {
+    version: "Patchnotes",
+    date: "29.03.2026",
+    preview: "Baumarkt-Umzug, neue Möbel, NPC-/Zug-Fixes und erste Behörden-Features",
+    changes: [
+      "Baumarkt wurde verlegt, vollständig eingerichtet und enthält nun Möbel-, Bad- und Elektroartikel in verschiedenen Abteilungen sowie den Ressourcen An- & Verkauf",
+      "7 neue Deckenlampen im Möbelshop verfügbar und weitere Küchenutensilien hinzugefügt",
+      "Schlüsselkastensystem für Behörden hinzugefügt (aktuell in Testphase)",
+      "6 Sitzbänke im Rex Diner über das Interaktionsmenü nutzbar gemacht",
+      "Fehler behoben, sodass keine 'wilden' NPCs und Züge mehr spawnen; Haltestellen entsprechend deaktiviert"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "28.03.2026",
     preview: "Baumarkt-Umzug, neue Möbel, NPC-/Zug-Fixes und erste Behörden-Features",
     changes: [
@@ -208,34 +232,8 @@ const patchNotes = [
       "6 Sitzbänke im Rex Diner über das Interaktionsmenü nutzbar gemacht",
       "Fehler behoben, sodass keine 'wilden' NPCs und Züge mehr spawnen; Haltestellen entsprechend deaktiviert"
     ]
-  },
-  {
-    version: "Patchnotes",
-    date: "27.03.2026",
-    preview: "Crime- und Crafting-Updates, neue Möbel & Fixes sowie Fahrzeug-Handling-Anpassungen",
-    changes: [
-      "Phosphorlieferungen im Crime-System angepasst und eine weitere Route fertiggestellt",
-      "Schwefelkisten können nun hergestellt werden und die schmutzige Serviette wurde als kleineres Prop ersetzt",
-      "Neue Einrichtungsinhalte: 5 funktionale Grills, 5 Sonnenschirme wieder verfügbar, +19 neue Badezimmer-Items und bestehende Badezimmer-Items in neuen Shop verschoben",
-      "Housing-Fixes: Eingetragene Spieler bei Wohnungen/Häusern funktionieren korrekt und Anpassung eines Schranks in der Franklinvilla",
-      "Fahrzeug-Handling überarbeitet: Importfahrzeuge angepasst sowie Police Coquette D10, Police Vigero und Police Buffalo ST PI angepasst",
-      "Neue Importfahrzeuge verfügbar, da Florjan zurück im Staat ist"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "19.03.2026",
-    preview: "Neue Häuser in Sandy Shores und Grapeseed sowie Anpassung der Rocker-Route",
-    changes: [
-      "83 neue Häuser in Sandy Shores und Grapeseed hinzugefügt",
-      "28 Villen sind nun mietbar",
-      "Rocker-Route im Crime-System angepasst"
-    ]
   }
-]
-
-
-
+];
 
 
 
