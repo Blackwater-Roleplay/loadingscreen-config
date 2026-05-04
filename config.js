@@ -199,44 +199,42 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "05.04.2026",
-    preview: "Housing-Fixes, neue Möbel, Händler-Umstrukturierung und Crime-Erweiterungen",
+    date: "04.05.2026",
+    preview: "Achievement-System, Fahrzeugkatalog, Fabriken und Lebensmittel-Umstellung",
     changes: [
-      "Einparken in Hausgaragen auf passende Fahrzeugtypen limitiert und Fehler behoben, wodurch Spieler nach dem Spawnen nicht mehr durch die Map fallen oder sterben",
-      "Neue Outdoor-Möbel wie Springbrunnen und Whirlpool sowie Erweiterung der Möbelshops mit 11 Lampen und 1 Computer bei Tech Nick, 6 Dekoartikeln und 27 Gemälden bei Deko Dörte und 1 neuem Regal",
-      "Rezept für Glasflaschen angepasst",
-      "Fahrzeugteilehändler nach Paleto verlegt, Waffenteilehändlerin verkauft Baupläne nun in der Eastside und Großmarkt sowie Lebensmittelmarkt zusammengelegt",
-      "Crime-Fraktionen können Shops einnehmen und Schutzgeld basierend auf Einnahmen verlangen sowie Anpassung des Preises für Mohnflaschen"
+      "Einführung des Achievement-Systems mit über 400 Achievements, unterschiedlichen Laufbahnen (z. B. Crime, Zivi, Behörden), Belohnungen und versteckten Erfolgen",
+      "Einführung von Mindesthaltbarkeitsdaten sowie Umstellung der Lebensmittel-Items in Gastrobereichen (Tankstellen bereits umgestellt)",
+      "Ressourcenunternehmen haben nun eigene Fabriken an der Schmelze zur verbesserten Versorgung",
+      "Vorbereitungen für den neuen Fahrzeugkatalog abgeschlossen und Fix für korrekt ladende Fahrzeughandlings (u. a. Weevil, Toros, 300R, Mamba, Lynx, Buffalo S, Schlagen GT)",
+      "Neues Pflanzengeschäft eröffnet als Vertretung für Royal Flowers"
     ]
   },
   {
     version: "Patchnotes",
-    date: "29.03.2026",
-    preview: "Baumarkt-Umzug, neue Möbel, NPC-/Zug-Fixes und erste Behörden-Features",
+    date: "03.05.2026",
+    preview: "Foodbags, Tattoo-Features, Flughafen-NPC und Fahrzeugkatalog",
     changes: [
-      "Baumarkt wurde verlegt, vollständig eingerichtet und enthält nun Möbel-, Bad- und Elektroartikel in verschiedenen Abteilungen sowie den Ressourcen An- & Verkauf",
-      "7 neue Deckenlampen im Möbelshop verfügbar und weitere Küchenutensilien hinzugefügt",
-      "Schlüsselkastensystem für Behörden hinzugefügt (aktuell in Testphase)",
-      "6 Sitzbänke im Rex Diner über das Interaktionsmenü nutzbar gemacht",
-      "Fehler behoben, sodass keine 'wilden' NPCs und Züge mehr spawnen; Haltestellen entsprechend deaktiviert"
+      "Foodbags beim Großmarkt hinzugefügt, um Lebensmittel zu verpacken",
+      "Westside Tattoostudio um nutzbare Tattooliegen erweitert",
+      "Neuer NPC am Flughafen hinzugefügt, um Einreisemitarbeiter erneut zu kontaktieren (Standort bei Cassandra, 'Flughafenmitarbeiter Steven')",
+      "Normales Weed wurde zu Purple Haze umgestellt",
+      "Neuer Autohauskatalog ist verfügbar"
     ]
   },
   {
     version: "Patchnotes",
-    date: "28.03.2026",
-    preview: "Baumarkt-Umzug, neue Möbel, NPC-/Zug-Fixes und erste Behörden-Features",
+    date: "02.05.2026",
+    preview: "Carwash-Update, Ressourcenanpassungen, Map-Blips und US Army",
     changes: [
-      "Baumarkt wurde verlegt, vollständig eingerichtet und enthält nun Möbel-, Bad- und Elektroartikel in verschiedenen Abteilungen sowie den Ressourcen An- & Verkauf",
-      "7 neue Deckenlampen im Möbelshop verfügbar und weitere Küchenutensilien in Planung",
-      "Schlüsselkastensystem für Behörden hinzugefügt (aktuell in Testphase)",
-      "6 Sitzbänke im Rex Diner über das Interaktionsmenü nutzbar gemacht",
-      "Fehler behoben, sodass keine 'wilden' NPCs und Züge mehr spawnen; Haltestellen entsprechend deaktiviert"
+      "Waschanlage hält Fahrzeuge nun 24 Stunden sauber oder bis zum nächsten Restart",
+      "Tablet-Animation geändert",
+      "Abbauzeiten verschiedener Ressourcen verkürzt und erste Verarbeitungszeiten (z. B. Glas) angepasst",
+      "Grill- und Tankstellengerichte überarbeitet, haben nun ein Ablaufdatum und Lebensmittel aus geschlossenen Gastros entfernt",
+      "Blips für Yellow Jack und US Army hinzugefügt",
+      "US Army im Staatsgebiet eingeführt und Fort Zancudo als Stützpunkt festgelegt"
     ]
   }
 ];
-
-
-
 
 
 
