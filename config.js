@@ -223,7 +223,7 @@ const patchNotes = [
   },
   {
     version: "Patchnotes",
-    date: "02.05.2026",
+    date: "25.04.2026",
     preview: "Carwash-Update, Ressourcenanpassungen, Map-Blips und US Army",
     changes: [
       "Waschanlage hält Fahrzeuge nun 24 Stunden sauber oder bis zum nächsten Restart",
