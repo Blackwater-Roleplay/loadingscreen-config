@@ -200,13 +200,24 @@ const patchNotes = [
   {
     version: "Patchnotes",
     date: "04.05.2026",
-    preview: "Achievement-System, Fahrzeugkatalog, Fabriken und Lebensmittel-Umstellung",
+    preview: "Möbel, Pflanzen, Food-System und Gastro-Umstellungen",
     changes: [
-      "Einführung des Achievement-Systems mit über 400 Achievements, unterschiedlichen Laufbahnen (z. B. Crime, Zivi, Behörden), Belohnungen und versteckten Erfolgen",
-      "Einführung von Mindesthaltbarkeitsdaten sowie Umstellung der Lebensmittel-Items in Gastrobereichen (Tankstellen bereits umgestellt)",
-      "Ressourcenunternehmen haben nun eigene Fabriken an der Schmelze zur verbesserten Versorgung",
-      "Vorbereitungen für den neuen Fahrzeugkatalog abgeschlossen und Fix für korrekt ladende Fahrzeughandlings (u. a. Weevil, Toros, 300R, Mamba, Lynx, Buffalo S, Schlagen GT)",
-      "Neues Pflanzengeschäft eröffnet als Vertretung für Royal Flowers"
+      "25 neue Möbelstücke, 2 neue Badezimmer-Artikel und 25 neue Pflanzen im Shop hinzugefügt",
+      "Einführung von Mindesthaltbarkeitsdaten für Lebensmittel sowie Erinnerung an Foodbags im Großmarkt zur Verpackung",
+      "Umstellung von Lebensmitteln und Zubereitungszeiten bei Cluckin Bell, Pommespanzer, Amir Kebab, Bahama Mama, Bean Machine, Tequilala, Rex Diner, Tiki Bar, Bienenwolf, Blocc Spot und Yellow Jack Inn",
+      "Tankstellen- und Flughafen-Lebensmittel ebenfalls auf das neue System umgestellt"
+    ]
+  },
+  {
+    version: "Patchnotes",
+    date: "04.05.2026",
+    preview: "Crime-Änderungen, Samendealer und illegales Angeln",
+    changes: [
+      "6 Samendealer in der Stadt verteilt, zurückgesetzt und neu einnehmbar; jede Crime-Fraktion (außer Racer) kann teilnehmen, maximal 2 Dealer gleichzeitig pro Fraktion",
+      "Memberanzahl bei Dealer-Einnahmen und Schutzgelderpressungen an Mindestanzahl von Crime-Fraktionen angepasst",
+      "Erträge verschiedener Pflanzen, tägliche Samenanzahl und Lukrativität der Drogen angepasst sowie Bug bei der Pflanzzeit von Mohn behoben",
+      "Normales Weed bleibt zu Purple Haze umgestellt und besitzt eine neue Optik",
+      "Fische beim illegalen Angeln in städtischen Teichen sind erst ab den frühen Abendstunden aktiv"
     ]
   },
   {
@@ -220,24 +231,8 @@ const patchNotes = [
       "Normales Weed wurde zu Purple Haze umgestellt",
       "Neuer Autohauskatalog ist verfügbar"
     ]
-  },
-  {
-    version: "Patchnotes",
-    date: "25.04.2026",
-    preview: "Carwash-Update, Ressourcenanpassungen, Map-Blips und US Army",
-    changes: [
-      "Waschanlage hält Fahrzeuge nun 24 Stunden sauber oder bis zum nächsten Restart",
-      "Tablet-Animation geändert",
-      "Abbauzeiten verschiedener Ressourcen verkürzt und erste Verarbeitungszeiten (z. B. Glas) angepasst",
-      "Grill- und Tankstellengerichte überarbeitet, haben nun ein Ablaufdatum und Lebensmittel aus geschlossenen Gastros entfernt",
-      "Blips für Yellow Jack und US Army hinzugefügt",
-      "US Army im Staatsgebiet eingeführt und Fort Zancudo als Stützpunkt festgelegt"
-    ]
   }
 ];
-
-
-
 
 
 
