@@ -199,41 +199,47 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "04.05.2026",
-    preview: "Möbel, Pflanzen, Food-System und Gastro-Umstellungen",
+    date: "08.05.2026",
+    preview: "Casino-Update, Daueraufträge, neue Lagerflächen und Bowling-Fix",
     changes: [
-      "25 neue Möbelstücke, 2 neue Badezimmer-Artikel und 25 neue Pflanzen im Shop hinzugefügt",
-      "Einführung von Mindesthaltbarkeitsdaten für Lebensmittel sowie Erinnerung an Foodbags im Großmarkt zur Verpackung",
-      "Umstellung von Lebensmitteln und Zubereitungszeiten bei Cluckin Bell, Pommespanzer, Amir Kebab, Bahama Mama, Bean Machine, Tequilala, Rex Diner, Tiki Bar, Bienenwolf, Blocc Spot und Yellow Jack Inn",
-      "Tankstellen- und Flughafen-Lebensmittel ebenfalls auf das neue System umgestellt"
+      "Ausparkpunkt der TequiLaLa-Garage angepasst",
+      "Einige Food-Unternehmen haben neue Lagerflächen erhalten",
+      "Daueraufträge für Konten eingeführt",
+      "Casino um Slots (Glued Emeralds, Book of Paw), Blackjack, tägliche Freispiele am Glücksrad, Rabattgutscheine und Mysteryboxen erweitert",
+      "Neue Trading- und Craftingmöglichkeiten rund ums Casino hinzugefügt",
+      "Weitere Achievements hinzugefügt",
+      "Potenzieller Bowling-Fix eingespielt"
     ]
   },
   {
     version: "Patchnotes",
     date: "04.05.2026",
-    preview: "Crime-Änderungen, Samendealer und illegales Angeln",
+    preview: "Samendealer, Food-System, Möbel und Crime-Anpassungen",
     changes: [
-      "6 Samendealer in der Stadt verteilt, zurückgesetzt und neu einnehmbar; jede Crime-Fraktion (außer Racer) kann teilnehmen, maximal 2 Dealer gleichzeitig pro Fraktion",
-      "Memberanzahl bei Dealer-Einnahmen und Schutzgelderpressungen an Mindestanzahl von Crime-Fraktionen angepasst",
-      "Erträge verschiedener Pflanzen, tägliche Samenanzahl und Lukrativität der Drogen angepasst sowie Bug bei der Pflanzzeit von Mohn behoben",
-      "Normales Weed bleibt zu Purple Haze umgestellt und besitzt eine neue Optik",
-      "Fische beim illegalen Angeln in städtischen Teichen sind erst ab den frühen Abendstunden aktiv"
+      "25 neue Möbelstücke, 2 Badezimmer-Artikel und 25 neue Pflanzen im Shop hinzugefügt",
+      "Mindesthaltbarkeitsdaten für Lebensmittel eingeführt und Foodbags im Großmarkt verfügbar",
+      "Lebensmittel-System bei mehreren Unternehmen sowie Tankstellen und Flughafen umgestellt und Zubereitungszeiten angepasst",
+      "6 neue Samendealer eingeführt und alle Dealer zurückgesetzt",
+      "Crime-Fraktionen können maximal 2 Dealer gleichzeitig besitzen und Anforderungen für Dealer-Einnahmen sowie Schutzgelderpressungen wurden angepasst",
+      "Erträge verschiedener Pflanzen, tägliche Samenanzahl und Lukrativität verschiedener Drogen angepasst",
+      "Bug bei der Pflanzzeit von Mohn behoben",
+      "Normales Weed wurde zu Purple Haze mit neuer Optik umgestellt",
+      "Illegale Fische in städtischen Teichen sind erst ab den frühen Abendstunden aktiv"
     ]
   },
   {
     version: "Patchnotes",
     date: "03.05.2026",
-    preview: "Foodbags, Tattoo-Features, Flughafen-NPC und Fahrzeugkatalog",
+    preview: "Foodbags, Tattooliegen, Flughafen-NPC und Fahrzeugkatalog",
     changes: [
       "Foodbags beim Großmarkt hinzugefügt, um Lebensmittel zu verpacken",
       "Westside Tattoostudio um nutzbare Tattooliegen erweitert",
-      "Neuer NPC am Flughafen hinzugefügt, um Einreisemitarbeiter erneut zu kontaktieren (Standort bei Cassandra, 'Flughafenmitarbeiter Steven')",
+      "Neuer NPC am Flughafen hinzugefügt, um erneut Einreisemitarbeiter zu kontaktieren",
       "Normales Weed wurde zu Purple Haze umgestellt",
       "Neuer Autohauskatalog ist verfügbar"
     ]
   }
 ];
-
 
 
 
