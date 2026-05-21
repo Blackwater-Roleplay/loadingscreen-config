@@ -198,6 +198,22 @@ const backgroundImages = [
 // Patch notes array with last 3 entries
 const patchNotes = [
   {
+  version: "Patchnotes",
+  date: "18.05.2026",
+  preview: "Medic-Update, Boosting-Aufträge, Werkzeug-Verschleiß und Casino-Fixes",
+  changes: [
+    "Heilung im Medic-System entfernt nun auch den verletzten Laufstil",
+    "Boosting-Aufträge im Racing-System wurden freigeschaltet",
+    "Abbau- und Sammelwerkzeuge verbrauchen sich nun",
+    "Verbrauchswerte der Werkzeuge wurden im Laufe des Abends nochmals angepasst",
+    "Vorbereitungen für Fabrik-Upgrades wurden getroffen",
+    "Falls eine Fabrik nicht funktioniert: einmal auf „Ausbauen“ gehen und die Fabrik erneut kaufen",
+    "Dupen von Chips beim Blackjack behoben",
+    "Der Pentagonales-Trapezoeder-Würfel hat nun eine Funktion",
+    "Fehler behoben, durch den Ergebnisse am Glücksrad beeinflusst werden konnten"
+    ]
+  },
+  {
     version: "Patchnotes",
     date: "08.05.2026",
     preview: "Casino-Update, Daueraufträge, neue Lagerflächen und Bowling-Fix",
@@ -225,18 +241,6 @@ const patchNotes = [
       "Bug bei der Pflanzzeit von Mohn behoben",
       "Normales Weed wurde zu Purple Haze mit neuer Optik umgestellt",
       "Illegale Fische in städtischen Teichen sind erst ab den frühen Abendstunden aktiv"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "03.05.2026",
-    preview: "Foodbags, Tattooliegen, Flughafen-NPC und Fahrzeugkatalog",
-    changes: [
-      "Foodbags beim Großmarkt hinzugefügt, um Lebensmittel zu verpacken",
-      "Westside Tattoostudio um nutzbare Tattooliegen erweitert",
-      "Neuer NPC am Flughafen hinzugefügt, um erneut Einreisemitarbeiter zu kontaktieren",
-      "Normales Weed wurde zu Purple Haze umgestellt",
-      "Neuer Autohauskatalog ist verfügbar"
     ]
   }
 ];
