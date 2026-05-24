@@ -199,6 +199,26 @@ const backgroundImages = [
 const patchNotes = [
   {
   version: "Patchnotes",
+  date: "24.05.2026",
+  preview: "Neue Animationen, Achievement-Update, Forensik-Erweiterung und Shopraub-Vorbereitung",
+  changes: [
+    "6 neue Partneranimationen hinzugefügt",
+    "Insgesamt 72 Animationen überarbeitet, benannt und neu zugeordnet",
+    "Kollisionen bei La Fuente Blanca behoben",
+    "Die Pferderanch ist nun betretbar",
+    "Der neue Autohauskatalog ist nun für Autohändler verfügbar",
+    "Die Stadtreinigung kann nun weitere Rohstoffe verwerten",
+    "Achievements wurden mit Bildern versehen",
+    "Achievements wurden in Kategorien einsortiert",
+    "Weitere neue Achievements hinzugefügt",
+    "PD-/MD-Forensik um bisher fehlende Substanzen und Drogen erweitert",
+    "Vorbereitungen für das Shopraub-Update getroffen",
+    "Vorbereitungen für das Drogenupdate laufen auf Hochtouren",
+    "Vorbereitungen für die komplette Umstellung der Modklamotten getroffen – weitere Informationen folgen"
+    ]
+  },
+  {
+  version: "Patchnotes",
   date: "18.05.2026",
   preview: "Medic-Update, Boosting-Aufträge, Werkzeug-Verschleiß und Casino-Fixes",
   changes: [
@@ -225,22 +245,6 @@ const patchNotes = [
       "Neue Trading- und Craftingmöglichkeiten rund ums Casino hinzugefügt",
       "Weitere Achievements hinzugefügt",
       "Potenzieller Bowling-Fix eingespielt"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "04.05.2026",
-    preview: "Samendealer, Food-System, Möbel und Crime-Anpassungen",
-    changes: [
-      "25 neue Möbelstücke, 2 Badezimmer-Artikel und 25 neue Pflanzen im Shop hinzugefügt",
-      "Mindesthaltbarkeitsdaten für Lebensmittel eingeführt und Foodbags im Großmarkt verfügbar",
-      "Lebensmittel-System bei mehreren Unternehmen sowie Tankstellen und Flughafen umgestellt und Zubereitungszeiten angepasst",
-      "6 neue Samendealer eingeführt und alle Dealer zurückgesetzt",
-      "Crime-Fraktionen können maximal 2 Dealer gleichzeitig besitzen und Anforderungen für Dealer-Einnahmen sowie Schutzgelderpressungen wurden angepasst",
-      "Erträge verschiedener Pflanzen, tägliche Samenanzahl und Lukrativität verschiedener Drogen angepasst",
-      "Bug bei der Pflanzzeit von Mohn behoben",
-      "Normales Weed wurde zu Purple Haze mit neuer Optik umgestellt",
-      "Illegale Fische in städtischen Teichen sind erst ab den frühen Abendstunden aktiv"
     ]
   }
 ];
