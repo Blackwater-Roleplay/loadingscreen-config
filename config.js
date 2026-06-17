@@ -199,54 +199,45 @@ const backgroundImages = [
 const patchNotes = [
   {
   version: "Patchnotes",
-  date: "24.05.2026",
-  preview: "Neue Animationen, Achievement-Update, Forensik-Erweiterung und Shopraub-Vorbereitung",
+  date: "12.06.2026",
+  preview: "Notfallmedic-System für behandlungsfreie Zeiten eingeführt",
   changes: [
-    "6 neue Partneranimationen hinzugefügt",
-    "Insgesamt 72 Animationen überarbeitet, benannt und neu zugeordnet",
-    "Kollisionen bei La Fuente Blanca behoben",
-    "Die Pferderanch ist nun betretbar",
-    "Der neue Autohauskatalog ist nun für Autohändler verfügbar",
-    "Die Stadtreinigung kann nun weitere Rohstoffe verwerten",
-    "Achievements wurden mit Bildern versehen",
-    "Achievements wurden in Kategorien einsortiert",
-    "Weitere neue Achievements hinzugefügt",
-    "PD-/MD-Forensik um bisher fehlende Substanzen und Drogen erweitert",
-    "Vorbereitungen für das Shopraub-Update getroffen",
-    "Vorbereitungen für das Drogenupdate laufen auf Hochtouren",
-    "Vorbereitungen für die komplette Umstellung der Modklamotten getroffen – weitere Informationen folgen"
-    ]
-  },
-  {
+    "Sind keine Mediziner im aktiven Dienst, übernimmt das Bereitschaftspersonal die medizinische Versorgung",
+    "Bewusstlose Personen können zur Behandlung ins Medical Center gebracht werden (Transport erfolgt über Partneranimationen)",
+    "Spieler können sich während des Bereitschaftsdienstes eigenständig zum Medical Center begeben und behandeln lassen",
+    "Die Kosten der medizinischen Versorgung während des Bereitschaftsdienstes sind privat zu tragen",
+    "Sobald mindestens ein Mediziner aktiv im Dienst ist, steht die Bereitschaftsversorgung nicht mehr zur Verfügung",
+    "Die medizinische Versorgung erfolgt dann ausschließlich durch das diensthabende medizinische Personal"
+  ]
+},
+{
   version: "Patchnotes",
-  date: "18.05.2026",
-  preview: "Medic-Update, Boosting-Aufträge, Werkzeug-Verschleiß und Casino-Fixes",
+  date: "11.06.2026",
+  preview: "Großes Update für die Jobbörsen-App mit neuen Kontakt- und Vergütungsoptionen",
   changes: [
-    "Heilung im Medic-System entfernt nun auch den verletzten Laufstil",
-    "Boosting-Aufträge im Racing-System wurden freigeschaltet",
-    "Abbau- und Sammelwerkzeuge verbrauchen sich nun",
-    "Verbrauchswerte der Werkzeuge wurden im Laufe des Abends nochmals angepasst",
-    "Vorbereitungen für Fabrik-Upgrades wurden getroffen",
-    "Falls eine Fabrik nicht funktioniert: einmal auf „Ausbauen“ gehen und die Fabrik erneut kaufen",
-    "Dupen von Chips beim Blackjack behoben",
-    "Der Pentagonales-Trapezoeder-Würfel hat nun eine Funktion",
-    "Fehler behoben, durch den Ergebnisse am Glücksrad beeinflusst werden konnten"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "08.05.2026",
-    preview: "Casino-Update, Daueraufträge, neue Lagerflächen und Bowling-Fix",
-    changes: [
-      "Ausparkpunkt der TequiLaLa-Garage angepasst",
-      "Einige Food-Unternehmen haben neue Lagerflächen erhalten",
-      "Daueraufträge für Konten eingeführt",
-      "Casino um Slots (Glued Emeralds, Book of Paw), Blackjack, tägliche Freispiele am Glücksrad, Rabattgutscheine und Mysteryboxen erweitert",
-      "Neue Trading- und Craftingmöglichkeiten rund ums Casino hinzugefügt",
-      "Weitere Achievements hinzugefügt",
-      "Potenzieller Bowling-Fix eingespielt"
-    ]
-  }
+    "Bei der Erstellung von Jobanzeigen ist die Angabe des Namens nun optional",
+    "E-Mail-Adressen können nun als Kontaktart hinterlegt werden",
+    "Als Kontaktmöglichkeit kann nun 'nur SMS' ausgewählt werden",
+    "Verschiedene Vergütungsmöglichkeiten können angegeben werden",
+    "Jobbezeichnungen werden nun alphabetisch sortiert",
+    "Stellenausschreibungen können nachträglich bearbeitet und angepasst werden",
+    "Weitere Erweiterung in Vorbereitung: Arbeitgeber können künftig bei Jobangeboten angegeben werden"
+  ]
+},
+{
+  version: "Patchnotes",
+  date: "10.06.2026",
+  preview: "Jobbörsen-App, Fahrzeuganpassungen, Shopraub-Update und neue Garage",
+  changes: [
+    "48 Fahrzeughandlings überarbeitet und angepasst",
+    "Werkstätten haben Mitarbeiter für die Verwertung von Gutscheinen erhalten",
+    "Anpassungen am Shopraub-System vorgenommen",
+    "Mitarbeiter der 24/7-Filialen können nun Täterbeschreibungen abgeben",
+    "Verbandspäckchen besitzen nun einen Cooldown",
+    "Die neue Jobbörsen-App wurde hinzugefügt",
+    "Neue öffentliche Garage in Harmony angelegt"
+  ]
+}
 ];
 
 
