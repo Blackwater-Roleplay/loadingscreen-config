@@ -198,46 +198,35 @@ const backgroundImages = [
 // Patch notes array with last 3 entries
 const patchNotes = [
   {
-  version: "Patchnotes",
-  date: "12.06.2026",
-  preview: "Notfallmedic-System für behandlungsfreie Zeiten eingeführt",
-  changes: [
-    "Sind keine Mediziner im aktiven Dienst, übernimmt das Bereitschaftspersonal die medizinische Versorgung",
-    "Bewusstlose Personen können zur Behandlung ins Medical Center gebracht werden (Transport erfolgt über Partneranimationen)",
-    "Spieler können sich während des Bereitschaftsdienstes eigenständig zum Medical Center begeben und behandeln lassen",
-    "Die Kosten der medizinischen Versorgung während des Bereitschaftsdienstes sind privat zu tragen",
-    "Sobald mindestens ein Mediziner aktiv im Dienst ist, steht die Bereitschaftsversorgung nicht mehr zur Verfügung",
-    "Die medizinische Versorgung erfolgt dann ausschließlich durch das diensthabende medizinische Personal"
-  ]
-},
-{
-  version: "Patchnotes",
-  date: "11.06.2026",
-  preview: "Großes Update für die Jobbörsen-App mit neuen Kontakt- und Vergütungsoptionen",
-  changes: [
-    "Bei der Erstellung von Jobanzeigen ist die Angabe des Namens nun optional",
-    "E-Mail-Adressen können nun als Kontaktart hinterlegt werden",
-    "Als Kontaktmöglichkeit kann nun 'nur SMS' ausgewählt werden",
-    "Verschiedene Vergütungsmöglichkeiten können angegeben werden",
-    "Jobbezeichnungen werden nun alphabetisch sortiert",
-    "Stellenausschreibungen können nachträglich bearbeitet und angepasst werden",
-    "Weitere Erweiterung in Vorbereitung: Arbeitgeber können künftig bei Jobangeboten angegeben werden"
-  ]
-},
-{
-  version: "Patchnotes",
-  date: "10.06.2026",
-  preview: "Jobbörsen-App, Fahrzeuganpassungen, Shopraub-Update und neue Garage",
-  changes: [
-    "48 Fahrzeughandlings überarbeitet und angepasst",
-    "Werkstätten haben Mitarbeiter für die Verwertung von Gutscheinen erhalten",
-    "Anpassungen am Shopraub-System vorgenommen",
-    "Mitarbeiter der 24/7-Filialen können nun Täterbeschreibungen abgeben",
-    "Verbandspäckchen besitzen nun einen Cooldown",
-    "Die neue Jobbörsen-App wurde hinzugefügt",
-    "Neue öffentliche Garage in Harmony angelegt"
-  ]
-}
+    version: "Patchnotes",
+    date: "27.06.2026",
+    preview: "Zusatzinformationen und Effekte des Fitnesssystems",
+    changes: [
+      "Anpassung der Boxhandschuhe",
+      "Ein trainierter Oberkörper sorgt dafür, dass mehr Schläge eingesteckt werden können, und ein kräftiger Bizeps verleiht Schlägen mehr Wirkung",
+      "Verbesserung der Ausdauer durch verschiedene Kardio-Übungen und Erhöhung des Lungenvolumens für längeres Tauchen",
+      "Die verschiedenen Übungen wirken sich unterschiedlich aus; manche trainieren mehrere Muskelgruppen gleichzeitig, andere sind auf eine bestimmte Körperregion spezialisiert"
+    ]
+  },
+  {
+    version: "Patchnotes",
+    date: "27.06.2026",
+    preview: "Einführung des Fitnesssystems und neue Trainingsorte",
+    changes: [
+      "Einführung des Fitnesssystems, bei dem sich das gezielte Training direkt auf die Fähigkeiten Bizeps, Brust, Rücken, Ausdauer und Lungenvolumen auswirkt",
+      "Freischaltung der Trainingsorte Muscle Beach (Vespucci), Stadtpark (neben PDM), Universitätssportplatz und Gefängnishof"
+    ]
+  },
+  {
+    version: "Patchnotes",
+    date: "12.06.2026",
+    preview: "Notfallmedic-System und medizinische Versorgung",
+    changes: [
+      "Sind keine Mediziner im aktiven Dienst, übernimmt das Bereitschaftspersonal die medizinische Versorgung, und bewusstlose Personen können per Partneranimation ins Medical Center gebracht werden",
+      "Spieler können sich während des Bereitschaftsdienstes eigenständig zum Medical Center begeben und dort kostenpflichtig behandeln lassen",
+      "Sobald mindestens ein Mediziner aktiv im Dienst eingestempelt ist, steht die Notfallmedic-Funktion nicht mehr zur Verfügung"
+    ]
+  }
 ];
 
 
