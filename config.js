@@ -199,19 +199,19 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "28.06.2026",
+    date: "06.07.2026",
     preview: "Tauchausrüstung, Alkoholsystem, Pole-Dance und Fitness-Tracker",
     changes: [
       "Neues Chapter in Grapeseed eingefügt",
-      `„Hook & Schnapp" verkauft nun Tauchausrüstungen, leere Sauerstoffflaschen können an einer Sauerstoffstation wieder aufgefüllt werden (nach Absetzen der Tauchmaske erneut nötig)`,
+      `„Hook & Schnapp" verkauft nun Tauchausrüstungen, leere Sauerstoffflaschen können an der Sauerstoffstation wieder aufgefüllt werden (nach Absetzen der Tauchmaske erneut nötig)`,
       "Fallschirme können nun bei Björn gekauft werden",
       "An selbst aufgestellten Pole-Dance-Stangen kann nun mit verschiedenen Tänzen getanzt werden, Menü per Maus oder Pfeiltasten bedienbar und frei verschiebbar",
       "Selbst einrichtbare Housing-Shells laden nun performanter",
-      "Gehälter der Minijobs wurden angepasst",
+      "Gehälter der Minijobs wurden angepasst, weitere Anpassungen folgen",
       "Charakter baut beim Verzehr alkoholischer Getränke und Speisen nun einen Alkoholpegel auf, der Laufstil-, Sicht- und weitere Effekte auslöst und mit der Zeit wieder sinkt",
       "PD kann den Alkoholwert nun mittels Atemalkoholtest feststellen",
       "Fitness-Tracker im Handyladen erhältlich, zeigt Erschöpfung und Trainingsstand der Muskelgruppen an",
-      "50 weitere Handyhintergründe hinzugefügt"
+      "55 weitere Handyhintergründe hinzugefügt"
     ]
   },
   {
@@ -238,8 +238,6 @@ const patchNotes = [
     ]
   }
 ];
-
-
 
 
 
