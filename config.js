@@ -199,32 +199,42 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "27.06.2026",
-    preview: "Zusatzinformationen und Effekte des Fitnesssystems",
+    date: "28.06.2026",
+    preview: "Tauchausrüstung, Alkoholsystem, Pole-Dance und Fitness-Tracker",
     changes: [
-      "Anpassung der Boxhandschuhe",
-      "Ein trainierter Oberkörper sorgt dafür, dass mehr Schläge eingesteckt werden können, und ein kräftiger Bizeps verleiht Schlägen mehr Wirkung",
-      "Verbesserung der Ausdauer durch verschiedene Kardio-Übungen und Erhöhung des Lungenvolumens für längeres Tauchen",
-      "Die verschiedenen Übungen wirken sich unterschiedlich aus; manche trainieren mehrere Muskelgruppen gleichzeitig, andere sind auf eine bestimmte Körperregion spezialisiert"
+      "Neues Chapter in Grapeseed eingefügt",
+      `„Hook & Schnapp" verkauft nun Tauchausrüstungen, leere Sauerstoffflaschen können an einer Sauerstoffstation wieder aufgefüllt werden (nach Absetzen der Tauchmaske erneut nötig)`,
+      "Fallschirme können nun bei Björn gekauft werden",
+      "An selbst aufgestellten Pole-Dance-Stangen kann nun mit verschiedenen Tänzen getanzt werden, Menü per Maus oder Pfeiltasten bedienbar und frei verschiebbar",
+      "Selbst einrichtbare Housing-Shells laden nun performanter",
+      "Gehälter der Minijobs wurden angepasst",
+      "Charakter baut beim Verzehr alkoholischer Getränke und Speisen nun einen Alkoholpegel auf, der Laufstil-, Sicht- und weitere Effekte auslöst und mit der Zeit wieder sinkt",
+      "PD kann den Alkoholwert nun mittels Atemalkoholtest feststellen",
+      "Fitness-Tracker im Handyladen erhältlich, zeigt Erschöpfung und Trainingsstand der Muskelgruppen an",
+      "50 weitere Handyhintergründe hinzugefügt"
     ]
   },
   {
     version: "Patchnotes",
     date: "27.06.2026",
-    preview: "Einführung des Fitnesssystems und neue Trainingsorte",
+    preview: "Fitnesssystem mit Muskeltraining, Boxen und Trainingsorten",
     changes: [
-      "Einführung des Fitnesssystems, bei dem sich das gezielte Training direkt auf die Fähigkeiten Bizeps, Brust, Rücken, Ausdauer und Lungenvolumen auswirkt",
-      "Freischaltung der Trainingsorte Muscle Beach (Vespucci), Stadtpark (neben PDM), Universitätssportplatz und Gefängnishof"
+      "Einführung des Fitnesssystems, das gezielt Bizeps, Brust, Rücken, Ausdauer und Lungenvolumen trainiert und die körperliche Leistungsfähigkeit verbessert",
+      "Ein trainierter Oberkörper sorgt dafür, dass ihr mehr Schläge einstecken könnt, ein kräftiger Bizeps verleiht euren Schlägen mehr Wumms",
+      "Ausdauer lässt sich durch verschiedene Kardio-Übungen verbessern, Lungenvolumen ermöglicht längeres Tauchen",
+      "Boxhandschuhe wurden angepasst",
+      "Verschiedene Übungen wirken sich unterschiedlich auf den Charakter aus, manche trainieren mehrere Muskelgruppen gleichzeitig",
+      "Trainingsorte verfügbar: Muscle Beach (Vespucci), Stadtpark (neben PDM), Universitätssportplatz und Gefängnishof (Sandy Shores Gym noch im Umbau)"
     ]
   },
   {
     version: "Patchnotes",
     date: "12.06.2026",
-    preview: "Notfallmedic-System und medizinische Versorgung",
+    preview: "Notfallmedic bei fehlendem medizinischem Personal",
     changes: [
-      "Sind keine Mediziner im aktiven Dienst, übernimmt das Bereitschaftspersonal die medizinische Versorgung, und bewusstlose Personen können per Partneranimation ins Medical Center gebracht werden",
-      "Spieler können sich während des Bereitschaftsdienstes eigenständig zum Medical Center begeben und dort kostenpflichtig behandeln lassen",
-      "Sobald mindestens ein Mediziner aktiv im Dienst eingestempelt ist, steht die Notfallmedic-Funktion nicht mehr zur Verfügung"
+      "Sind keine Mediziner im aktiven Dienst, übernimmt das Bereitschaftspersonal die medizinische Versorgung, bewusstlose Personen können zur Behandlung ins Medical Center gebracht werden (Transport über Partneranimationen)",
+      "Spieler können sich während des Bereitschaftsdienstes auch eigenständig zum Medical Center begeben und dort auf eigene Kosten behandeln lassen",
+      "Sobald mindestens ein Mediziner aktiv im Dienst (eingestempelt) ist, steht diese Funktion nicht mehr zur Verfügung und die Versorgung erfolgt ausschließlich durch das diensthabende Personal"
     ]
   }
 ];
