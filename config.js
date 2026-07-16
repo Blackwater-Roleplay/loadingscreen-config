@@ -199,6 +199,20 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "09.07.2026",
+    preview: "ATM-Raubsystem, Sprengsätze, Hehler und neue Polizeimechaniken",
+    changes: [
+      "Neues ATM-Raubsystem mit Hacken oder Sprengen von Bankautomaten eingeführt",
+      "Geldkassetten müssen einzeln entnommen werden und können auch von anderen Spielern weiter geplündert werden",
+      "Ausbeute der Automaten variiert je nach Standort und Andrang",
+      "Ein neuer NPC rund um Mount Chiliad ermöglicht den Zugang zu Sprengsätzen",
+      "Geldkassetten können beim Hehler geöffnet werden, häufige Verkäufe erhöhen jedoch das Risiko",
+      "Farbpatronen können Kassetten unbrauchbar machen und sichtbare Farbrückstände hinterlassen",
+      "ATM-Raube lösen Polizeieinsätze aus, manipulierte Automaten und Kassetten können forensisch ausgewertet werden"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "06.07.2026",
     preview: "Tauchausrüstung, Alkoholsystem, Pole-Dance und Fitness-Tracker",
     changes: [
@@ -225,16 +239,6 @@ const patchNotes = [
       "Boxhandschuhe wurden angepasst",
       "Verschiedene Übungen wirken sich unterschiedlich auf den Charakter aus, manche trainieren mehrere Muskelgruppen gleichzeitig",
       "Trainingsorte verfügbar: Muscle Beach (Vespucci), Stadtpark (neben PDM), Universitätssportplatz und Gefängnishof (Sandy Shores Gym noch im Umbau)"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "12.06.2026",
-    preview: "Notfallmedic bei fehlendem medizinischem Personal",
-    changes: [
-      "Sind keine Mediziner im aktiven Dienst, übernimmt das Bereitschaftspersonal die medizinische Versorgung, bewusstlose Personen können zur Behandlung ins Medical Center gebracht werden (Transport über Partneranimationen)",
-      "Spieler können sich während des Bereitschaftsdienstes auch eigenständig zum Medical Center begeben und dort auf eigene Kosten behandeln lassen",
-      "Sobald mindestens ein Mediziner aktiv im Dienst (eingestempelt) ist, steht diese Funktion nicht mehr zur Verfügung und die Versorgung erfolgt ausschließlich durch das diensthabende Personal"
     ]
   }
 ];
