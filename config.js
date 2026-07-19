@@ -209,7 +209,6 @@ const patchNotes = [
       "Zu viele Kassetten in kurzer Zeit erhöhen das Entdeckungsrisiko, Farbpatronen können Inhalt zerstören und sichtbare Spuren hinterlassen",
       "Einige Tore in Rockford Hills öffnen sich nun automatisch",
       "Das Police Department verfügt nun über Absperrbänder für Einsatzstellen",
-      "Die Auktions-App versteigert nun Fahrzeuge"
     ]
   },
   {
