@@ -199,6 +199,21 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "17.07.2026",
+    preview: "Handy-Update, Hehler-Erweiterung, Absperrbänder und Fahrzeugauktionen",
+    changes: [
+      "Neuer Taschenrechner und die App 'Cookie Clicker' zum Handy hinzugefügt",
+      "Home-Button überarbeitet, Kontakte können einfacher gelöscht sowie per Eye-Sight Visitenkarten und Handykontakte geteilt werden",
+      "Anonyme Anrufe sind nun möglich",
+      "Geldkassetten aus ATM-Räuben können nun bei verschiedenen Hehlern geöffnet werden",
+      "Zu viele Kassetten in kurzer Zeit erhöhen das Entdeckungsrisiko, Farbpatronen können Inhalt zerstören und sichtbare Spuren hinterlassen",
+      "Einige Tore in Rockford Hills öffnen sich nun automatisch",
+      "Das Police Department verfügt nun über Absperrbänder für Einsatzstellen",
+      "Die Auktions-App versteigert nun Fahrzeuge"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "09.07.2026",
     preview: "ATM-Raubsystem, Sprengsätze, Hehler und neue Polizeimechaniken",
     changes: [
@@ -217,28 +232,14 @@ const patchNotes = [
     preview: "Tauchausrüstung, Alkoholsystem, Pole-Dance und Fitness-Tracker",
     changes: [
       "Neues Chapter in Grapeseed eingefügt",
-      `„Hook & Schnapp" verkauft nun Tauchausrüstungen, leere Sauerstoffflaschen können an der Sauerstoffstation wieder aufgefüllt werden (nach Absetzen der Tauchmaske erneut nötig)`,
-      "Fallschirme können nun bei Björn gekauft werden",
-      "An selbst aufgestellten Pole-Dance-Stangen kann nun mit verschiedenen Tänzen getanzt werden, Menü per Maus oder Pfeiltasten bedienbar und frei verschiebbar",
-      "Selbst einrichtbare Housing-Shells laden nun performanter",
-      "Gehälter der Minijobs wurden angepasst, weitere Anpassungen folgen",
-      "Charakter baut beim Verzehr alkoholischer Getränke und Speisen nun einen Alkoholpegel auf, der Laufstil-, Sicht- und weitere Effekte auslöst und mit der Zeit wieder sinkt",
-      "PD kann den Alkoholwert nun mittels Atemalkoholtest feststellen",
-      "Fitness-Tracker im Handyladen erhältlich, zeigt Erschöpfung und Trainingsstand der Muskelgruppen an",
-      "55 weitere Handyhintergründe hinzugefügt"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "27.06.2026",
-    preview: "Fitnesssystem mit Muskeltraining, Boxen und Trainingsorten",
-    changes: [
-      "Einführung des Fitnesssystems, das gezielt Bizeps, Brust, Rücken, Ausdauer und Lungenvolumen trainiert und die körperliche Leistungsfähigkeit verbessert",
-      "Ein trainierter Oberkörper sorgt dafür, dass ihr mehr Schläge einstecken könnt, ein kräftiger Bizeps verleiht euren Schlägen mehr Wumms",
-      "Ausdauer lässt sich durch verschiedene Kardio-Übungen verbessern, Lungenvolumen ermöglicht längeres Tauchen",
-      "Boxhandschuhe wurden angepasst",
-      "Verschiedene Übungen wirken sich unterschiedlich auf den Charakter aus, manche trainieren mehrere Muskelgruppen gleichzeitig",
-      "Trainingsorte verfügbar: Muscle Beach (Vespucci), Stadtpark (neben PDM), Universitätssportplatz und Gefängnishof (Sandy Shores Gym noch im Umbau)"
+      "Tauchausrüstungen erhältlich, Sauerstoffflaschen können nun aufgefüllt werden",
+      "Fallschirme sind jetzt bei Björn verfügbar",
+      "Pole-Dance-Stangen mit verschiedenen Tänzen und neuem Menü hinzugefügt",
+      "Housing-Shells laden nun performanter",
+      "Minijob-Gehälter angepasst",
+      "Neues Alkoholsystem mit Promillewerten und Atemalkoholtest für das PD",
+      "Fitness-Tracker zeigt Erschöpfung und Trainingsfortschritt an",
+      "55 neue Handyhintergründe hinzugefügt"
     ]
   }
 ];
