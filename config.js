@@ -199,46 +199,41 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
-    date: "17.07.2026",
-    preview: "Handy-Update, Hehler-Erweiterung, Absperrbänder und Fahrzeugauktionen",
+    date: "24.07.2026",
+    preview: "DriveMe-App, Ragdoll-System, Gefängnis-Update und Jobbörse 2.0",
     changes: [
-      "Neuer Taschenrechner und die App 'Cookie Clicker' zum Handy hinzugefügt",
-      "Home-Button überarbeitet, Kontakte können einfacher gelöscht sowie per Eye-Sight Visitenkarten und Handykontakte geteilt werden",
-      "Anonyme Anrufe sind nun möglich",
-      "Geldkassetten aus ATM-Räuben können nun bei verschiedenen Hehlern geöffnet werden",
-      "Zu viele Kassetten in kurzer Zeit erhöhen das Entdeckungsrisiko, Farbpatronen können Inhalt zerstören und sichtbare Spuren hinterlassen",
-      "Einige Tore in Rockford Hills öffnen sich nun automatisch",
-      "Das Police Department verfügt nun über Absperrbänder für Einsatzstellen",
+      "DriveMe-App hinzugefügt, um Fahrten anzubieten oder Fahrer zu finden",
+      "Jobbörsen-App mit neuem Design und behobenem Anruffehler",
+      "Ragdoll-System mit frei belegbarer Taste integriert",
+      "Notfall-Medic im Gefängnis hinzugefügt",
+      "Haftzeit- und Entlassungssystem im Gefängnis überarbeitet",
+      "Panic-Button-Anzeige für Unbefugte entfernt"
     ]
   },
   {
     version: "Patchnotes",
-    date: "09.07.2026",
-    preview: "ATM-Raubsystem, Sprengsätze, Hehler und neue Polizeimechaniken",
+    date: "22.07.2026",
+    preview: "Gefängniseröffnung, Racing-Update und Gameplay-Verbesserungen",
     changes: [
-      "Neues ATM-Raubsystem mit Hacken oder Sprengen von Bankautomaten eingeführt",
-      "Geldkassetten müssen einzeln entnommen werden und können auch von anderen Spielern weiter geplündert werden",
-      "Ausbeute der Automaten variiert je nach Standort und Andrang",
-      "Ein neuer NPC rund um Mount Chiliad ermöglicht den Zugang zu Sprengsätzen",
-      "Geldkassetten können beim Hehler geöffnet werden, häufige Verkäufe erhöhen jedoch das Risiko",
-      "Farbpatronen können Kassetten unbrauchbar machen und sichtbare Farbrückstände hinterlassen",
-      "ATM-Raube lösen Polizeieinsätze aus, manipulierte Automaten und Kassetten können forensisch ausgewertet werden"
+      "Gefängnis eröffnet mit Inhaftierungs-, Entlassungs- und Haftverwaltungssystem",
+      "Arbeit, Verpflegung sowie Vorbereitungen für Quests und Ausbrüche im Gefängnis hinzugefügt",
+      "Gästemodus und Belohnungssystem für Racing überarbeitet",
+      "Boosting-Balancing angepasst",
+      "Weitere Fahrzeuganpassungen und leisere Waschanlage",
+      "First-Person-Steuerung verbessert"
     ]
   },
   {
     version: "Patchnotes",
-    date: "06.07.2026",
-    preview: "Tauchausrüstung, Alkoholsystem, Pole-Dance und Fitness-Tracker",
+    date: "20.07.2026",
+    preview: "Neue MLOs, ESC-Menü, Haftsystem und Gameplay-Updates",
     changes: [
-      "Neues Chapter in Grapeseed eingefügt",
-      "Tauchausrüstungen erhältlich, Sauerstoffflaschen können nun aufgefüllt werden",
-      "Fallschirme sind jetzt bei Björn verfügbar",
-      "Pole-Dance-Stangen mit verschiedenen Tänzen und neuem Menü hinzugefügt",
-      "Housing-Shells laden nun performanter",
-      "Minijob-Gehälter angepasst",
-      "Neues Alkoholsystem mit Promillewerten und Atemalkoholtest für das PD",
-      "Fitness-Tracker zeigt Erschöpfung und Trainingsfortschritt an",
-      "55 neue Handyhintergründe hinzugefügt"
+      "Neue MLOs für das Biker-Clubhaus und Mosley Autohaus hinzugefügt",
+      "Neues ESC-Menü integriert",
+      "Haftsystem und Behörden-Items erweitert",
+      "Doppeltüren und neues Recoil-System hinzugefügt",
+      "Cookie-Clicker erweitert und Event-Bonuscodes hinzugefügt",
+      "Achievements ergänzt und neue Unternehmensänderungen vorgenommen"
     ]
   }
 ];
