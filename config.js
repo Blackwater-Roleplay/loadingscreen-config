@@ -199,6 +199,20 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "29.07.2026",
+    preview: "Neue Handys, Werkstattsystem, Auktions-App und Streamer-Modus",
+    changes: [
+      "16 neue Handys in verschiedenen Farben hinzugefügt",
+      "Auktions-App mit schnellerer Gebotsabgabe und SMS-Benachrichtigung für Auktionsgewinner verbessert",
+      "Fahrzeugreparaturen sind nun nur noch an festen Werkstattstandorten möglich",
+      "Standlicht kann jetzt über das Interaktionsmenü bei geparkten Fahrzeugen aktiviert werden",
+      "Feuerlöschsystem in der First-Person-Ansicht behoben",
+      "Tutorial überarbeitet und 3 neue Achievements hinzugefügt",
+      "ESC-Menü um Streamer-Modus und konfigurierbare Standardansicht erweitert"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "24.07.2026",
     preview: "DriveMe-App, Ragdoll-System, Gefängnis-Update und Jobbörse 2.0",
     changes: [
@@ -221,19 +235,6 @@ const patchNotes = [
       "Boosting-Balancing angepasst",
       "Weitere Fahrzeuganpassungen und leisere Waschanlage",
       "First-Person-Steuerung verbessert"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "20.07.2026",
-    preview: "Neue MLOs, ESC-Menü, Haftsystem und Gameplay-Updates",
-    changes: [
-      "Neue MLOs für das Biker-Clubhaus und Mosley Autohaus hinzugefügt",
-      "Neues ESC-Menü integriert",
-      "Haftsystem und Behörden-Items erweitert",
-      "Doppeltüren und neues Recoil-System hinzugefügt",
-      "Cookie-Clicker erweitert und Event-Bonuscodes hinzugefügt",
-      "Achievements ergänzt und neue Unternehmensänderungen vorgenommen"
     ]
   }
 ];
