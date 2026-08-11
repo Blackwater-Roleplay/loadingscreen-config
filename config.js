@@ -199,6 +199,37 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "10.08.2026",
+    preview: "Graffiti-System, anpassbares UI, Handy-Apps, Westen-System und Kleinkriminalität",
+    changes: [
+      "Neues Graffiti-System mit individuellen Motiven, Größen, Ebenen und Sprühstärken eingeführt",
+      "Graffitis können von der Stadtreinigung entfernt werden und verschwinden nach einiger Zeit automatisch",
+      "Neue Notiz-App und Leitstellen-App für das Handy hinzugefügt",
+      "UI-Elemente können nun individuell verschoben und in der Größe angepasst werden",
+      "Abschlepp- und Fahrzeugschiebesystem verbessert sowie Angebot des Lieferfahrzeughändlers erweitert",
+      "Gefängnis um Abgabe und spätere Abholung persönlicher Gegenstände erweitert",
+      "PD verfügt nun über Tränengaswerfer und entsprechende Schutzmasken",
+      "PD-Westen besitzen eigene Schutzwerte, die direkt auf der jeweiligen Weste gespeichert werden",
+      "Neue Kleinkriminalität: Stromkästen können aufgebrochen und gefundene Gegenstände weiterverkauft oder verarbeitet werden",
+      "Stadtreinigung kann wieder Fahrzeuge verschrotten"
+    ]
+  },
+  {
+    version: "Patchnotes",
+    date: "07.08.2026",
+    preview: "LifeInvader-Update, ESC-Guide, Fahrzeugschieben und Notfallmedic-Anpassungen",
+    changes: [
+      "LifeInvader-Beiträge können nun geteilt und Kommentare gezielt beantwortet werden",
+      "ESC-Menü um Homepage, Guide-Bereich und überarbeiteten Sozial-Bereich erweitert",
+      "Erste Vorbereitungen für das Graffiti-System getroffen",
+      "Aufgeschlossene Fahrzeuge können nun an Motorhaube oder Kofferraum geschoben werden",
+      "Notfallmedizinische Versorgung entfernt nun auch illegale Gegenstände und kostet eine Servicepauschale",
+      "Dispatch-Verteilung beim Panic-Button für Behörden angepasst",
+      "Auktions-App und Tablet-AppStore überarbeitet"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "29.07.2026",
     preview: "Neue Handys, Werkstattsystem, Auktions-App und Streamer-Modus",
     changes: [
@@ -209,32 +240,6 @@ const patchNotes = [
       "Feuerlöschsystem in der First-Person-Ansicht behoben",
       "Tutorial überarbeitet und 3 neue Achievements hinzugefügt",
       "ESC-Menü um Streamer-Modus und konfigurierbare Standardansicht erweitert"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "24.07.2026",
-    preview: "DriveMe-App, Ragdoll-System, Gefängnis-Update und Jobbörse 2.0",
-    changes: [
-      "DriveMe-App hinzugefügt, um Fahrten anzubieten oder Fahrer zu finden",
-      "Jobbörsen-App mit neuem Design und behobenem Anruffehler",
-      "Ragdoll-System mit frei belegbarer Taste integriert",
-      "Notfall-Medic im Gefängnis hinzugefügt",
-      "Haftzeit- und Entlassungssystem im Gefängnis überarbeitet",
-      "Panic-Button-Anzeige für Unbefugte entfernt"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "22.07.2026",
-    preview: "Gefängniseröffnung, Racing-Update und Gameplay-Verbesserungen",
-    changes: [
-      "Gefängnis eröffnet mit Inhaftierungs-, Entlassungs- und Haftverwaltungssystem",
-      "Arbeit, Verpflegung sowie Vorbereitungen für Quests und Ausbrüche im Gefängnis hinzugefügt",
-      "Gästemodus und Belohnungssystem für Racing überarbeitet",
-      "Boosting-Balancing angepasst",
-      "Weitere Fahrzeuganpassungen und leisere Waschanlage",
-      "First-Person-Steuerung verbessert"
     ]
   }
 ];
