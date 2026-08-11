@@ -199,6 +199,21 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "11.08.2026",
+    preview: "Tablet-Update, Graffiti-Favoriten, Audio-Einstellungen und Shopraub-Anpassungen",
+    changes: [
+      "Tablet für Auflösungen von 1920x1080 bis 3840x2160 optimiert und automatischen App-Login verbessert",
+      "Neues Tablet-Einstellungsmenü mit eigenen Hintergründen hinzugefügt",
+      "Graffitis werden nach Upload-Datum sortiert und können als Favoriten gespeichert werden",
+      "Waschanlagen unterstützen nun die Auswahl verfügbarer Bankkonten",
+      "Stockmarket zeigt verwendete Bankkonten an und erhielt ein überarbeitetes UI",
+      "Persönliche Lautstärke von Musikboxen kann nun unter TAB → Audio eingestellt werden",
+      "Interner Paintball-Fehler behoben",
+      "Zeugenaussagen bei Shopräuben hinsichtlich Wahrscheinlichkeit und zeitlicher Erfassung überarbeitet"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "10.08.2026",
     preview: "Graffiti-System, anpassbares UI, Handy-Apps, Westen-System und Kleinkriminalität",
     changes: [
@@ -226,20 +241,6 @@ const patchNotes = [
       "Notfallmedizinische Versorgung entfernt nun auch illegale Gegenstände und kostet eine Servicepauschale",
       "Dispatch-Verteilung beim Panic-Button für Behörden angepasst",
       "Auktions-App und Tablet-AppStore überarbeitet"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "29.07.2026",
-    preview: "Neue Handys, Werkstattsystem, Auktions-App und Streamer-Modus",
-    changes: [
-      "16 neue Handys in verschiedenen Farben hinzugefügt",
-      "Auktions-App mit schnellerer Gebotsabgabe und SMS-Benachrichtigung für Auktionsgewinner verbessert",
-      "Fahrzeugreparaturen sind nun nur noch an festen Werkstattstandorten möglich",
-      "Standlicht kann jetzt über das Interaktionsmenü bei geparkten Fahrzeugen aktiviert werden",
-      "Feuerlöschsystem in der First-Person-Ansicht behoben",
-      "Tutorial überarbeitet und 3 neue Achievements hinzugefügt",
-      "ESC-Menü um Streamer-Modus und konfigurierbare Standardansicht erweitert"
     ]
   }
 ];
