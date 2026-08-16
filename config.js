@@ -199,48 +199,51 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "15.08.2026",
+    preview: "Luftfahrt, Flugzeughandel, Bootsverkauf und Stadtumbauten",
+    changes: [
+      "Flugscheine, Flugzeughändler mit Probeflügen und neue Flugzeuggarage am Airport eingeführt",
+      "Luftfahrzeuge verfügen über Höhenmesser und zusätzliche Tankmöglichkeiten",
+      "Reparaturbereich für Flugzeuge am Airportabschlepphof eingerichtet",
+      "Neuer Bootsverkäufer am Vespucci-Hafen hinzugefügt",
+      "Zulassungsstelle, Abschlepphof und Garagenwärter in Grapeseed sind umgezogen",
+      "Tastenbelegungen unter TAB können nun durchsucht werden",
+      "Aktensystem und Zeugenaussagen für Behörden überarbeitet und Fehler behoben",
+      "Flatbeds funktionieren wieder korrekt und Positionen abgeschleppter Fahrzeuge werden gespeichert",
+      "Abgelehnte Graffiti-Motive zeigen nun Status und Begründung an",
+      "Fabrikgegenstände können mit SHIFT + Klick direkt in Substorages verschoben werden"
+    ]
+  },
+  {
+    version: "Patchnotes",
+    date: "14.08.2026",
+    preview: "Musikboxen, Handy-Desktop, Helikopter-Features und Baumarkt-Umbau",
+    changes: [
+      "Musikboxen mit Warteschlange, Vor- und Zurückspulen sowie überarbeitetem UI erweitert",
+      "Graffiti-System um freie Kamerabewegung und zusätzliche Hinweise verbessert",
+      "Handy um zweiten App-Desktop erweitert und Klingeltöne anderer Personen sind nun hörbar",
+      "UI-Elemente können mit SHIFT proportional skaliert und Menükarten mit ESC geschlossen werden",
+      "Abschlepper mit Ladefläche funktionieren wieder ordnungsgemäß",
+      "Fahrzeugversiegelung bleibt über Restarts erhalten und wurde optimiert",
+      "Schlüsselverwaltung für Behörden überarbeitet",
+      "Partneranimations-Menü ist nun verschiebbar und auflösungsoptimiert",
+      "Baumarkt renoviert und um Outdoor- sowie Pflanzengeschäft erweitert",
+      "Helikopter verfügen nun über Hover-Modus, Höhenmesser und Helicams"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "11.08.2026",
     preview: "Tablet-Update, Graffiti-Favoriten, Audio-Einstellungen und Shopraub-Anpassungen",
     changes: [
-      "Tablet für Auflösungen von 1920x1080 bis 3840x2160 optimiert und automatischen App-Login verbessert",
+      "Tablet für verschiedene Auflösungen optimiert und automatischen App-Login verbessert",
       "Neues Tablet-Einstellungsmenü mit eigenen Hintergründen hinzugefügt",
       "Graffitis werden nach Upload-Datum sortiert und können als Favoriten gespeichert werden",
       "Waschanlagen unterstützen nun die Auswahl verfügbarer Bankkonten",
       "Stockmarket zeigt verwendete Bankkonten an und erhielt ein überarbeitetes UI",
-      "Persönliche Lautstärke von Musikboxen kann nun unter TAB → Audio eingestellt werden",
+      "Persönliche Lautstärke von Musikboxen kann unter TAB → Audio eingestellt werden",
       "Interner Paintball-Fehler behoben",
-      "Zeugenaussagen bei Shopräuben hinsichtlich Wahrscheinlichkeit und zeitlicher Erfassung überarbeitet"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "10.08.2026",
-    preview: "Graffiti-System, anpassbares UI, Handy-Apps, Westen-System und Kleinkriminalität",
-    changes: [
-      "Neues Graffiti-System mit individuellen Motiven, Größen, Ebenen und Sprühstärken eingeführt",
-      "Graffitis können von der Stadtreinigung entfernt werden und verschwinden nach einiger Zeit automatisch",
-      "Neue Notiz-App und Leitstellen-App für das Handy hinzugefügt",
-      "UI-Elemente können nun individuell verschoben und in der Größe angepasst werden",
-      "Abschlepp- und Fahrzeugschiebesystem verbessert sowie Angebot des Lieferfahrzeughändlers erweitert",
-      "Gefängnis um Abgabe und spätere Abholung persönlicher Gegenstände erweitert",
-      "PD verfügt nun über Tränengaswerfer und entsprechende Schutzmasken",
-      "PD-Westen besitzen eigene Schutzwerte, die direkt auf der jeweiligen Weste gespeichert werden",
-      "Neue Kleinkriminalität: Stromkästen können aufgebrochen und gefundene Gegenstände weiterverkauft oder verarbeitet werden",
-      "Stadtreinigung kann wieder Fahrzeuge verschrotten"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "07.08.2026",
-    preview: "LifeInvader-Update, ESC-Guide, Fahrzeugschieben und Notfallmedic-Anpassungen",
-    changes: [
-      "LifeInvader-Beiträge können nun geteilt und Kommentare gezielt beantwortet werden",
-      "ESC-Menü um Homepage, Guide-Bereich und überarbeiteten Sozial-Bereich erweitert",
-      "Erste Vorbereitungen für das Graffiti-System getroffen",
-      "Aufgeschlossene Fahrzeuge können nun an Motorhaube oder Kofferraum geschoben werden",
-      "Notfallmedizinische Versorgung entfernt nun auch illegale Gegenstände und kostet eine Servicepauschale",
-      "Dispatch-Verteilung beim Panic-Button für Behörden angepasst",
-      "Auktions-App und Tablet-AppStore überarbeitet"
+      "Zeugenaussagen bei Shopräuben überarbeitet"
     ]
   }
 ];
