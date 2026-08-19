@@ -192,6 +192,23 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "19.08.2026",
+    preview: "Handy-Features, Stadtreinigung, Sandy-Gym und zahlreiche Gameplay-Fixes",
+    changes: [
+      "ATM-Raub-Minispiel zum Scharfschalten von Sprengsätzen behoben",
+      "Dealer und Verarbeiter sind während ihrer Pausen nun in der Nähe ihrer Spots auffindbar",
+      "Stadtreinigung kann weitere Gegenstände recyceln und zahlreiche Mülleimer sowie Container sind nun nutzbar",
+      "Fitnessstudio in Sandy Shores vollständig eingerichtet",
+      "Handy-Notizen können per Bluetooth geteilt und farblich angepasst werden",
+      "Handyfotos können direkt über WhatsChat versendet werden und neue Warn-App für Sperr- und Warnzonen hinzugefügt",
+      "Rennstrecke in Paleto um Ampelsystem erweitert",
+      "Spielerrucksäcke können beim Durchsuchen ebenfalls durchsucht werden",
+      "Fehler bei Flugzeugen und Langwaffen auf dem Rücken behoben",
+      "Behörden-Schlüsselverwaltung erkennt Fahrzeugschlüssel nun automatisch und zeigt mitgeführte Schlüssel an"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "15.08.2026",
     preview: "Luftfahrt, Flugzeughandel, Bootsverkauf und Stadtumbauten",
     changes: [
@@ -222,21 +239,6 @@ const patchNotes = [
       "Partneranimations-Menü ist nun verschiebbar und auflösungsoptimiert",
       "Baumarkt renoviert und um Outdoor- sowie Pflanzengeschäft erweitert",
       "Helikopter verfügen nun über Hover-Modus, Höhenmesser und Helicams"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "11.08.2026",
-    preview: "Tablet-Update, Graffiti-Favoriten, Audio-Einstellungen und Shopraub-Anpassungen",
-    changes: [
-      "Tablet für verschiedene Auflösungen optimiert und automatischen App-Login verbessert",
-      "Neues Tablet-Einstellungsmenü mit eigenen Hintergründen hinzugefügt",
-      "Graffitis werden nach Upload-Datum sortiert und können als Favoriten gespeichert werden",
-      "Waschanlagen unterstützen nun die Auswahl verfügbarer Bankkonten",
-      "Stockmarket zeigt verwendete Bankkonten an und erhielt ein überarbeitetes UI",
-      "Persönliche Lautstärke von Musikboxen kann unter TAB → Audio eingestellt werden",
-      "Interner Paintball-Fehler behoben",
-      "Zeugenaussagen bei Shopräuben überarbeitet"
     ]
   }
 ];
