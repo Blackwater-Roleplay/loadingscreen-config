@@ -192,6 +192,19 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "21.08.2026",
+    preview: "Apex-Balancing, Racing-Anpassungen, UI-Updates und Rohölförderung",
+    changes: [
+      "Apex-Preise verschiedener Fahrzeuge und der Wert des Apex-Coins wurden angepasst",
+      "Apex-Fahrzeuge besitzen nun einen festen Geldwert zur Berechnung von Tuning- und Reparaturkosten",
+      "Gewinne der täglichen Rennen wurden angepasst",
+      "Willkommens- und Einreise-Screens sowie Graffiti- und Racing-UIs optisch überarbeitet",
+      "UI für Geschwindigkeitsmessung und Radarpistole des PDs angepasst",
+      "Rohölquellen versiegen nun nach einiger Zeit und benötigen anschließend eine Regenerationsphase"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "19.08.2026",
     preview: "Handy-Features, Stadtreinigung, Sandy-Gym und zahlreiche Gameplay-Fixes",
     changes: [
@@ -218,27 +231,10 @@ const patchNotes = [
       "Neuer Bootsverkäufer am Vespucci-Hafen hinzugefügt",
       "Zulassungsstelle, Abschlepphof und Garagenwärter in Grapeseed sind umgezogen",
       "Tastenbelegungen unter TAB können nun durchsucht werden",
-      "Aktensystem und Zeugenaussagen für Behörden überarbeitet und Fehler behoben",
+      "Aktensystem und Zeugenaussagen für Behörden überarbeitet",
       "Flatbeds funktionieren wieder korrekt und Positionen abgeschleppter Fahrzeuge werden gespeichert",
       "Abgelehnte Graffiti-Motive zeigen nun Status und Begründung an",
       "Fabrikgegenstände können mit SHIFT + Klick direkt in Substorages verschoben werden"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "14.08.2026",
-    preview: "Musikboxen, Handy-Desktop, Helikopter-Features und Baumarkt-Umbau",
-    changes: [
-      "Musikboxen mit Warteschlange, Vor- und Zurückspulen sowie überarbeitetem UI erweitert",
-      "Graffiti-System um freie Kamerabewegung und zusätzliche Hinweise verbessert",
-      "Handy um zweiten App-Desktop erweitert und Klingeltöne anderer Personen sind nun hörbar",
-      "UI-Elemente können mit SHIFT proportional skaliert und Menükarten mit ESC geschlossen werden",
-      "Abschlepper mit Ladefläche funktionieren wieder ordnungsgemäß",
-      "Fahrzeugversiegelung bleibt über Restarts erhalten und wurde optimiert",
-      "Schlüsselverwaltung für Behörden überarbeitet",
-      "Partneranimations-Menü ist nun verschiebbar und auflösungsoptimiert",
-      "Baumarkt renoviert und um Outdoor- sowie Pflanzengeschäft erweitert",
-      "Helikopter verfügen nun über Hover-Modus, Höhenmesser und Helicams"
     ]
   }
 ];
