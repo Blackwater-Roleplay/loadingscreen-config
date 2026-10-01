@@ -192,49 +192,48 @@ const backgroundImages = [
 const patchNotes = [
   {
     version: "Patchnotes",
+    date: "16.09.2026",
+    preview: "Großes LifeInvader-Update, Wetter-App und weitere Gameplay-Fixes",
+    changes: [
+      "Ansprechperson für Kabel und Platinen kann nun auch ohne entsprechende Lizenz angesprochen werden",
+      "Siggi ist umgezogen und muss an seinem neuen Standort gefunden werden",
+      "Seltener Fehler bei der Fahrzeugversiegelung in der Waschanlage behoben",
+      "LifeInvader unterstützt nun Gruppen-Erwähnungen, Gruppen-Kommentare und erweiterte Moderationsfunktionen",
+      "Reposts rechnen Likes, Kommentare und Benachrichtigungen nun dem ursprünglichen Beitrag zu",
+      "My Trash, Your Cash unterstützt Bilder sowie eine Auswahl zwischen Kauf- und Verkaufsangeboten",
+      "Profile können gemeldet und einzelne Benutzer blockiert werden",
+      "Beiträge können nun zitiert, angepinnt und als nachträglich bearbeitet gekennzeichnet werden",
+      "Ladezeiten von LifeInvader-Profilen und Gruppen wurden verbessert",
+      "Neue Wetter-App auf dem Handy hinzugefügt"
+    ]
+  },
+  {
+    version: "Patchnotes",
+    date: "31.08.2026",
+    preview: "LifeInvader-Erweiterung, Dealer, Rohöl und neue Reparaturmöglichkeiten",
+    changes: [
+      "Neue Achievements hinzugefügt und Dealer sind nun dauerhaft ansprechbar",
+      "Über 2.500 fehlerhafte Klamottenbilder korrigiert",
+      "Items erhalten neue Beschreibungen mit Hinweisen auf mögliche Verwendungen",
+      "Rohölförderung überarbeitet und benötigt nun ein entsprechendes Item",
+      "Reparaturzonen für Land- und Wasserfahrzeuge an den Abschlepphöfen hinzugefügt",
+      "LifeInvader um Erwähnungen, Hashtags, geplante Beiträge und erweiterte Gruppensuche ergänzt",
+      "Beiträge und Bio-Einträge unterstützen nun verschiedene Textformatierungen",
+      "LifeInvader-Profile, Gruppen und Upload-Benachrichtigungen wurden erweitert",
+      "Towtruck funktioniert wieder mit Fahrzeugen, die selbst über eine Winde verfügen"
+    ]
+  },
+  {
+    version: "Patchnotes",
     date: "21.08.2026",
     preview: "Apex-Balancing, Racing-Anpassungen, UI-Updates und Rohölförderung",
     changes: [
       "Apex-Preise verschiedener Fahrzeuge und der Wert des Apex-Coins wurden angepasst",
       "Apex-Fahrzeuge besitzen nun einen festen Geldwert zur Berechnung von Tuning- und Reparaturkosten",
       "Gewinne der täglichen Rennen wurden angepasst",
-      "Willkommens- und Einreise-Screens sowie Graffiti- und Racing-UIs optisch überarbeitet",
+      "Willkommens-, Einreise-, Graffiti- und Racing-UIs optisch überarbeitet",
       "UI für Geschwindigkeitsmessung und Radarpistole des PDs angepasst",
       "Rohölquellen versiegen nun nach einiger Zeit und benötigen anschließend eine Regenerationsphase"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "19.08.2026",
-    preview: "Handy-Features, Stadtreinigung, Sandy-Gym und zahlreiche Gameplay-Fixes",
-    changes: [
-      "ATM-Raub-Minispiel zum Scharfschalten von Sprengsätzen behoben",
-      "Dealer und Verarbeiter sind während ihrer Pausen nun in der Nähe ihrer Spots auffindbar",
-      "Stadtreinigung kann weitere Gegenstände recyceln und zahlreiche Mülleimer sowie Container sind nun nutzbar",
-      "Fitnessstudio in Sandy Shores vollständig eingerichtet",
-      "Handy-Notizen können per Bluetooth geteilt und farblich angepasst werden",
-      "Handyfotos können direkt über WhatsChat versendet werden und neue Warn-App für Sperr- und Warnzonen hinzugefügt",
-      "Rennstrecke in Paleto um Ampelsystem erweitert",
-      "Spielerrucksäcke können beim Durchsuchen ebenfalls durchsucht werden",
-      "Fehler bei Flugzeugen und Langwaffen auf dem Rücken behoben",
-      "Behörden-Schlüsselverwaltung erkennt Fahrzeugschlüssel nun automatisch und zeigt mitgeführte Schlüssel an"
-    ]
-  },
-  {
-    version: "Patchnotes",
-    date: "15.08.2026",
-    preview: "Luftfahrt, Flugzeughandel, Bootsverkauf und Stadtumbauten",
-    changes: [
-      "Flugscheine, Flugzeughändler mit Probeflügen und neue Flugzeuggarage am Airport eingeführt",
-      "Luftfahrzeuge verfügen über Höhenmesser und zusätzliche Tankmöglichkeiten",
-      "Reparaturbereich für Flugzeuge am Airportabschlepphof eingerichtet",
-      "Neuer Bootsverkäufer am Vespucci-Hafen hinzugefügt",
-      "Zulassungsstelle, Abschlepphof und Garagenwärter in Grapeseed sind umgezogen",
-      "Tastenbelegungen unter TAB können nun durchsucht werden",
-      "Aktensystem und Zeugenaussagen für Behörden überarbeitet",
-      "Flatbeds funktionieren wieder korrekt und Positionen abgeschleppter Fahrzeuge werden gespeichert",
-      "Abgelehnte Graffiti-Motive zeigen nun Status und Begründung an",
-      "Fabrikgegenstände können mit SHIFT + Klick direkt in Substorages verschoben werden"
     ]
   }
 ];
